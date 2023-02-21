@@ -152,7 +152,7 @@ A streamlined code editor with support for development operations like debugging
 
 [www.filezilla-project.org](https://filezilla-project.org/)
 
-![Screenshot](thumbs/filezilla.gif)
+![Screenshot](thumbs/filezilla.png)
 
 A free and open-source, cross-platform FTP application, consisting of FileZilla Client and FileZilla Server. Clients are available for Windows, Linux, and macOS.
 
