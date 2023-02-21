@@ -149,14 +149,17 @@ Perfect for reference materials or creating mood-boards
 ### Screen Recording
 
 ##### Open Broadcaster Software OBS
+
+[www.obsproject.com](https://obsproject.com)
+
 ![Screenshot](thumbs/obs.png)
 
 A short description or maybe a long description for the tool in question.
 
-[www.tool.com](https://www.tool.com/)
-
 ##### ShareX
+
 [https://getsharex.com/](https://getsharex.com/)
+
 ![Screenshot](thumbs/sharex.png)
 
 A free and open source program that lets you capture or record any area of your screen and share it with a single press of a key.
