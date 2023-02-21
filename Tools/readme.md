@@ -237,9 +237,7 @@ Or create an account to hang on to em a bit longer with the added benefit of cro
 
 ##### Gfycat [www.gfycat.com/](https://gfycat.com/)
 
-Upload videos here and automatically convert them to gifs complete with embeds that you can share where ever you like.
-
-Or download them in compressed mp4 instead.. Create an account to start a portfolio.
+Upload videos here and automatically convert them to gifs complete with embeds that you can share where ever you like. Or download them in compressed mp4 instead.. Create an account to start a portfolio.
 
 ##### Imgur [imgur.com](https://imgur.com)
 
