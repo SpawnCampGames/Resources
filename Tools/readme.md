@@ -235,16 +235,19 @@ Videos too big to post? Use this website to upload videos and grab a temporary l
 Or create an account to hang on to em a bit longer with the added benefit of cropping, trimming, and downloading.
 
 
-##### Gfycat
-
-[www.gfycat.com/](https://gfycat.com/)
-
-![](thumbs/doomgif.mp4)
+##### Gfycat [www.gfycat.com/](https://gfycat.com/)
 
 Upload videos here and automatically convert them to gifs complete with embeds that you can share where ever you like.
 
 Or download them in compressed mp4 instead.. Create an account to start a portfolio.
 
+##### Imgur [imgur.com](https://imgur.com)
+
+Another upload site to share development images, etc
+
+##### ImgBB [imgbb.com](https://imgbb.com)
+
+Get a extra temporary link here with some that expire in 5 minutes after upload..
 
 #### Code
 
