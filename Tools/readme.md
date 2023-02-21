@@ -3,7 +3,7 @@
 ### Main IDE
 
 
-##### VisualStudio ⭐SpawnFavorite
+##### 🔗 VisualStudio ⭐SpawnFavorite
 
 ![Screenshot](thumbs/visualstudio.png)
 
@@ -17,7 +17,7 @@ The most comprehensive IDE for .NET and C++ developers on Windows. Fully packed 
 #### Raster Art
 
 
-##### Photoshop
+##### 🔗 Photoshop
 
 [www.adobe.com](https://www.adobe.com/products/photoshop.html) [Free 7-day Trial]
 
@@ -26,7 +26,7 @@ The most comprehensive IDE for .NET and C++ developers on Windows. Fully packed 
 Under Rock Recap: Photoshop is an image creation, graphic design and photo editing software developed by Adobe.
 
 
-##### Photopea
+##### 🔗 Photopea
 
 [www.photopea.com](https://www.photopea.com/)
 
@@ -36,7 +36,7 @@ A fully capable browser-based program for mild to moderate photo editing.
 Basically Photoshop in your web browser.
 
 
-##### Gimp
+##### 🔗 Gimp
 
 [www.gimp.org](https://www.gimp.org/)
 
@@ -49,7 +49,7 @@ A cross-platform image editor available for GNU/Linux, macOS, Windows and more. 
 #### Vector Art
 
 
-##### Illustrator
+##### 🔗 Illustrator
 
 [www.adobe.com/](https://www.adobe.com/products/illustrator.html) [Free 7-day Trial]
 
@@ -58,7 +58,7 @@ A cross-platform image editor available for GNU/Linux, macOS, Windows and more. 
 The "best" software for creating drawings, illustrations and artwork using a Windows or MacOS computer.
 
 
-##### Inkscape
+##### 🔗 Inkscape
 
 [www.inkscape.org](https://www.inkscape.org/)
 
@@ -71,7 +71,7 @@ A professional quality vector graphics software which runs on Linux, Mac OS X an
 ### Modelling / 3D Software
 
 
-##### Blender
+##### 🔗 Blender
 
 [www.blender.org](https://www.blender.org/)
 
@@ -84,7 +84,7 @@ Rendering, Modelling, VFX, Animation & Rigging, 2D/3D Drawing, Python Interface,
 ### Audio Editing
 
 
-##### Audacity
+##### 🔗 Audacity
 
 [www.audacityteam.org/](https://www.audacityteam.org/)
 
@@ -96,7 +96,7 @@ An easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Li
 ### Video Editing
 
 
-##### Premiere & After Effects
+##### 🔗 Premiere & After Effects
 
 [http://www.adobe.com/products/premiere.html](https://www.adobe.com/products/premiere.html)
 
@@ -105,7 +105,7 @@ An easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Li
 Yet some more Adobe Products. Premiere is your industry standard type of video editing, while After Effects adds the polish and special effects.
 
 
-##### HitFilmExpress ⭐SpawnFavorite
+##### 🔗 HitFilmExpress ⭐SpawnFavorite
 
 [www.fxhome.com/product/hitfilm](www.fxhome.com/product/hitfilm)
 
@@ -120,7 +120,7 @@ Great alternative to Adobe AfterEffects & Premiere!
 #### IDE
 
 
-##### Notepad++
+##### 🔗 Notepad++
 
 [www.notepad-plus-plus.org](https://www.notepad-plus-plus.org/)
 
@@ -129,7 +129,7 @@ Great alternative to Adobe AfterEffects & Premiere!
 A free (as in “free speech” and also as in “free beer”) source code editor and Notepad replacement that supports several languages. Running in the MS Windows environment, its use is governed by GNU General Public License.
 
 
-##### SublimeText
+##### 🔗 SublimeText
 
 [www.sublimetext.com](https://www.sublimetext.com/)
 
@@ -138,7 +138,7 @@ A free (as in “free speech” and also as in “free beer”) source code edit
 A sophisticated text editor for code, markup and prose (and free). 
 
 
-##### Visual Studio Code
+##### 🔗 Visual Studio Code
 
 [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
@@ -148,7 +148,7 @@ A streamlined code editor with support for development operations like debugging
 #### FTP Client
 
 
-##### Filezilla
+##### 🔗 Filezilla
 
 [www.filezilla-project.org](https://filezilla-project.org/)
 
@@ -160,7 +160,7 @@ A free and open-source, cross-platform FTP application, consisting of FileZilla 
 ### Game Design, Organization, and Brain-Storming
 
 
-##### Notion ⭐SpawnFavorite
+##### 🔗 Notion ⭐SpawnFavorite
 
 [www.notion.so](https://www.notion.so/)
 
@@ -169,7 +169,7 @@ A free and open-source, cross-platform FTP application, consisting of FileZilla 
 A productivity and note-taking web application developed by Notion Labs Inc. It offers organizational tools including task management, project tracking, to-do lists, bookmarking, and more. *Trello on steroids*.
 
 
-##### Trello
+##### 🔗 Trello
 
 [www.trello.com](https://www.trello.com/)
 
@@ -178,7 +178,7 @@ A productivity and note-taking web application developed by Notion Labs Inc. It 
 The ultimate project management tool. Start up a board in seconds, automate tedious tasks, and collaborate anywhere, even on mobile.
 
 
-##### Coggle
+##### 🔗 Coggle
 
 [www.coggle.it](https://www.coggle.it/)
 
@@ -187,7 +187,7 @@ The ultimate project management tool. Start up a board in seconds, automate tedi
 The clear way to share complex information. A collaborative mind-mapping tool that helps you make sense of complex things.
 
 
-##### PureRef
+##### 🔗 PureRef
 
 [www.pureref.com](https://www.pureref.com/)
 
@@ -200,7 +200,7 @@ Perfect for reference materials or creating mood-boards
 ### Screen Recording
 
 
-##### Open Broadcaster Software OBS
+##### 🔗 Open Broadcaster Software OBS
 
 [www.obsproject.com](https://obsproject.com)
 
@@ -209,7 +209,7 @@ Perfect for reference materials or creating mood-boards
 A free and open source software for video recording and live streaming. Great for recording long video sessions @ 60FPS HD.
 
 
-##### ShareX
+##### 🔗 ShareX
 
 [https://getsharex.com/](https://getsharex.com/)
 
@@ -225,7 +225,7 @@ Can create still images or even animated gifs and compression rates are epic.
 #### Video
 
 
-##### Streamable
+##### 🔗 Streamable
 
 [www.streamable.com](https://www.streamable.com/)
 
@@ -235,15 +235,15 @@ Videos too big to post? Use this website to upload videos and grab a temporary l
 Or create an account to hang on to em a bit longer with the added benefit of cropping, trimming, and downloading.
 
 
-##### Gfycat [www.gfycat.com/](https://gfycat.com/)
+##### 🔗 Gfycat [www.gfycat.com/](https://gfycat.com/)
 
 Upload videos here and automatically convert them to gifs complete with embeds that you can share where ever you like. Or download them in compressed mp4 instead.. Create an account to start a portfolio.
 
-##### Imgur [imgur.com](https://imgur.com)
+##### 🔗 Imgur [imgur.com](https://imgur.com)
 
 Another upload site to share development images, etc
 
-##### ImgBB [imgbb.com](https://imgbb.com)
+##### 🔗 ImgBB [imgbb.com](https://imgbb.com)
 
 Get a extra temporary link here with some that expire in 5 minutes after upload..
 
@@ -253,17 +253,17 @@ There are many times when you'll probably want to share your code. Whether it be
 particularly proud of.
 
 
-https://gist.github.com/
+🔗 https://gist.github.com/
 
-https://hatebin.com/
+🔗 https://hatebin.com/
 
-https://paste.myst.rs/
+🔗 https://paste.myst.rs/
 
-https://paste.ofcode.org/
+🔗 https://paste.ofcode.org/
 
-https://www.hastebin.com
+🔗 https://www.hastebin.com
 
-https://gdl.space/
+🔗 https://gdl.space/
 
 
 #### Game
@@ -271,23 +271,23 @@ https://gdl.space/
 Places to upload your Unity Game
 
 
-www.itch.io
+🔗 www.itch.io
 
-www.gamejolt.com
+🔗 www.gamejolt.com
 
-www.kbhgames.com
+🔗 www.kbhgames.com
 
-www.crazygames.com
+🔗 www.crazygames.com
 
 Steam (library)
 
-www.github.com (repo)
+🔗 www.github.com (repo)
 
 
 *If it's a WebGL build you can host it straight from your github by using your github.io page*
 
 
-[youname.github.io](https://pages.github.com/)
+🔗 [youname.github.io](https://pages.github.com/)
 
 
 ### Misc
