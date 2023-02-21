@@ -6,6 +6,13 @@ Rendering, Modelling, VFX, Animation & Rigging, 2D/3D Drawing, Python Interface,
 
 [www.blender.org](https://www.blender.org/)
 
+## Audacity
+![Screenshot](audacity.png)
+
+An easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems.
+
+[www.audacityteam.org/](https://www.audacityteam.org/)
+
 
 ## PureRef
 ![Screenshot](pureref.gif)
