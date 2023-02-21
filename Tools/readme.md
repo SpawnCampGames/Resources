@@ -138,27 +138,33 @@ The clear way to share complex information. A collaborative mind-mapping tool th
 [www.coggle.it](https://www.coggle.it/)
 
 ##### PureRef
+
+[www.pureref.com](https://www.pureref.com/)
+
+
 ![Screenshot](thumbs/pureref.gif)
 
 A stand-alone program for Windows, Mac and Linux that keeps track of your images.
 Perfect for reference materials or creating mood-boards
 
-[www.pureref.com](https://www.pureref.com/)
-
 
 ### Screen Recording
+
 
 ##### Open Broadcaster Software OBS
 
 [www.obsproject.com](https://obsproject.com)
 
+
 ![Screenshot](thumbs/obs.png)
 
 A short description or maybe a long description for the tool in question.
 
+
 ##### ShareX
 
 [https://getsharex.com/](https://getsharex.com/)
+
 
 ![Screenshot](thumbs/sharex.png)
 
@@ -167,39 +173,39 @@ Can create still images or even animated gifs and compression rates are epic.
 *Window's Snipping Tool on steroids*
 
 
-
-
-
-##### Title
-[www.tool.com](https://www.tool.com/)
-![Screenshot](thumbs/thumbnail.png)
-
-A short description or maybe a long description for the tool in question.
-
-
 ### Sharing
+
 #### Video
 
+
 ##### Streamable
+
+[www.streamable.com](https://www.streamable.com/)
+
+
 ![Screenshot](thumbs/streamable.png)
 
 Videos too big to post? Use this website to upload videos and grab a temporary link to share with all your friends.
 Or create an account to hang on to em a bit longer with the added benefit of cropping, trimming, and downloading.
 
-[www.streamable.com](https://www.streamable.com/)
 
 ##### Gfycat
-https://gfycat.com/illiterateangelickatydid
+
+[www.gfycat.com/](https://gfycat.com/)
+
+
+![](https://gfycat.com/illiterateangelickatydid)
 
 Upload videos here and automatically convert them to gifs complete with embeds that you can share where ever you like.
 Even use audio in your gifs to really make a statement!
 Create an account to start a portfolio.
 
-[www.gfycat.com/](https://gfycat.com/)
 
 #### Code
+
 There are many times when you'll probably want to share your code. Whether it be, for getting help from others or just showing off a piece of logic you're
-particularly proud of. 
+particularly proud of.
+
 
 https://gist.github.com/
 https://hatebin.com/
@@ -209,7 +215,9 @@ https://www.hastebin.com
 https://gdl.space/
 
 #### Game
+
 Places to upload your Unity Game
+
 
 www.itch.io
 www.gamejolt.com
@@ -218,9 +226,13 @@ www.crazygames.com
 Steam (library)
 www.github.com (repo)
 
+
 *If it's a WebGL build you can host it straght from your github by using your github.io page*
 [youname.github.io](https://pages.github.com/)
 
+
 ### Misc
 
+
 END
+
