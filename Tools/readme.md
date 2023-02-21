@@ -1,8 +1,9 @@
 # SpawnCampGame's Developer Suite
 
 ### Image and Graphic Design
----
 #### Raster Art
+
+
 ##### Photoshop
 ![Screenshot](thumbs/photoshop.png)
 
@@ -26,8 +27,8 @@ A cross-platform image editor available for GNU/Linux, macOS, Windows and more. 
 
 [www.gimp.org](https://www.gimp.org/)
 
-
 #### Vector Art
+
 
 ##### Illustrator
 ![Screenshot](thumbs/illustrator.png)
@@ -47,6 +48,8 @@ A professional quality vector graphics software which runs on Linux, Mac OS X an
 
 
 ### Modelling / 3D Software
+
+
 ##### Blender
 ![Screenshot](thumbs/blender.png)
 
@@ -80,9 +83,9 @@ Great alternative to Adobe AfterEffects & Premiere!
 
 [www.fxhome.com/product/hitfilm](www.fxhome.com/product/hitfilm)
 
-
 ### Web Developing
 #### IDE
+
 ##### Notepad++
 ![Screenshot](thumbs/notepadplusplus.png)
 
@@ -102,8 +105,8 @@ Under Rock Recap: A streamlined code editor with support for development operati
 
 [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
-
 #### FTP Client
+
 ##### Filezilla
 ![Screenshot](thumbs/filezilla.gif)
 
@@ -145,7 +148,7 @@ Perfect for reference materials or creating mood-boards
 
 ### Screen Recording
 
-### Open Broadcaster Software OBS
+##### Open Broadcaster Software OBS
 ![Screenshot](thumbs/obs.png)
 
 A short description or maybe a long description for the tool in question.
@@ -172,7 +175,6 @@ A short description or maybe a long description for the tool in question.
 
 
 ### Sharing
-
 #### Video
 
 ##### Streamable
@@ -216,6 +218,6 @@ www.github.com (repo)
 *If it's a WebGL build you can host it straght from your github by using your github.io page*
 [youname.github.io](https://pages.github.com/)
 
-
 ### Misc
 
+END
