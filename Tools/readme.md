@@ -239,11 +239,11 @@ Or create an account to hang on to em a bit longer with the added benefit of cro
 
 [www.gfycat.com/](https://gfycat.com/)
 
-[Spawn_DoomClone Controller Gif](https://gfycat.com/illiterateangelickatydid)
+![](thumbs/doomgif.mp4)
 
 Upload videos here and automatically convert them to gifs complete with embeds that you can share where ever you like.
-Even use audio in your gifs to really make a statement!
-Create an account to start a portfolio.
+
+Or download them in compressed mp4 instead.. Create an account to start a portfolio.
 
 
 #### Code
