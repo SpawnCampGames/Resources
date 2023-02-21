@@ -164,7 +164,7 @@ A free and open-source, cross-platform FTP application, consisting of FileZilla 
 
 [www.notion.so](https://www.notion.so/)
 
-![Screenshot](thumbs/notion.png)
+![](https://clickup.com/blog/wp-content/uploads/2020/12/image8-4.gif)
 
 A productivity and note-taking web application developed by Notion Labs Inc. It offers organizational tools including task management, project tracking, to-do lists, bookmarking, and more. *Trello on steroids*.
 
@@ -239,7 +239,7 @@ Or create an account to hang on to em a bit longer with the added benefit of cro
 
 [www.gfycat.com/](https://gfycat.com/)
 
-![](https://gfycat.com/illiterateangelickatydid)
+![ScreenShot](https://gfycat.com/illiterateangelickatydid)
 
 Upload videos here and automatically convert them to gifs complete with embeds that you can share where ever you like.
 Even use audio in your gifs to really make a statement!
