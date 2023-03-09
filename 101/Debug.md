@@ -43,12 +43,12 @@ Debug.LogError("Error");
     
 
 ```csharp
-				if(Input.GetMouseButtonDown(0)){
-            //FireRocket
-            Instantiate(rocketPrefab);
-						Debug.Log("<color=orange>RocketFired!</color>");
-						Debug.Break();
-        }
+if(Input.GetMouseButtonDown(0)){
+        //FireRocket
+        Instantiate(rocketPrefab);
+	Debug.Log("<color=orange>RocketFired!</color>");
+	Debug.Break();
+}
 ```
 
 ![Untitled](img/Untitled_4.png)
