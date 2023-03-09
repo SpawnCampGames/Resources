@@ -26,3 +26,7 @@ https://www.models-resource.com/
 
 https://craftpix.net/
 
+https://onfree3d.com/
+
+https://www.freepik.com/
+
