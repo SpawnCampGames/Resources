@@ -22,7 +22,7 @@ Vector3 alphaVector = Vector3.one;
 Debug.Log(alphaVector.x);
 ```
 
-![Untitled](img/Untitled1.png)
+![Untitled](img/Untitled_1.png)
 
 ### Errors & Warnings
 
@@ -33,13 +33,13 @@ Debug.LogWarning("Warning");
 Debug.LogError("Error");
 ```
 
-![Untitled](img/Untitled2.png)
+![Untitled](img/Untitled_2.png)
 
 ### Debug.Break();
 
 - Will force the editor to ⏯️`Pause` at end of that frame.
     
-    ![Untitled](img/Untitled3.png)
+    ![Untitled](img/Untitled_3.png)
     
 
 ```csharp
@@ -51,7 +51,7 @@ Debug.LogError("Error");
         }
 ```
 
-![Untitled](img/Untitled4.png)
+![Untitled](img/Untitled_4.png)
 
 ### Context
 
@@ -61,7 +61,7 @@ Debug.LogError("Error");
 Debug.Log("The Raycast Hit");
 ```
 
-![Untitled](img/Untitled5.png)
+![Untitled](img/Untitled_5.png)
 
 ---
 
@@ -71,7 +71,7 @@ Debug.Log("The Raycast Hit");
 Debug.Log("The Raycast Hit", this);
 ```
 
-![Untitled](img/Untitled6.png)
+![Untitled](img/Untitled_6.png)
 
 - Double-click the Debug Log in the `Console` to highlight the *object* that we passed in
 
@@ -89,7 +89,7 @@ Debug.Log("We hit: " + hit.transform.name);
 Debug.Log($"We hit: {hit.transform.name}");
 ```
 
-![Untitled](img/Untitled7.png)
+![Untitled](img/Untitled_7.png)
 
 ```csharp
 Debug.Log($"For just, {centsAmnt} cents, we found {amnt} {fruitType} at the market");
