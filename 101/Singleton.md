@@ -14,7 +14,8 @@ Any script can access the singleton through its class name, without needing a re
 GameManager.instance;
 ```
 
-*However, because any script can access it, it’s generally a good idea to protect the instance variable with a property, which simply means that it can be read by other scripts, but it can only be set from within its own class.*
+*However, because any script can access it*, it’s generally a good idea to protect the instance variable with a property,
+which simply means that it can be read by other scripts, but it can only be set from within its own class.
 
 ### Basic Singleton
 
@@ -28,7 +29,7 @@ public class Singleton : MonoBehaviour
 While the *static reference* can only ever point to one instance of the script, it’s possible to have more than one instance of the singleton in the scene.
 Which is why it’s important to make sure that there is only ever one instance of the singleton.
 
-⭐
+### 📌Generic Singleton
 ```csharp
 using UnityEngine;
 public class GameManager: MonoBehaviour
