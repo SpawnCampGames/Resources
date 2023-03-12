@@ -87,3 +87,8 @@ GameManager.Instance.ResetPlayer();
 Sources:
 ------
 https://gamedevbeginner.com/singletons-in-unity-the-right-way/
+
+https://gamedev.stackexchange.com/questions/116009/in-unity-how-do-i-correctly-implement-the-singleton-pattern
+
+http://www.unitygeek.com/unity_c_singleton/
+
