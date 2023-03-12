@@ -31,23 +31,19 @@ Which is why it’s important to make sure that there is only ever one instance 
 
 ### 📌Generic Singleton
 ```csharp
-using UnityEngine;
 public class GameManager: MonoBehaviour
 {
     public static GameManager Instance { get; private set; }
     private void Awake()
     {
-        // If theres already an instance
-        // and it isnt this one
-
         if(Instance != null && Instance != this)
         {
+            // If theres already an instance and it isnt this one
             Destroy(this);
         }
         else
         {
-            // If theres not an instance
-            // or if this is already the instance
+            // If theres not an instance or this is already it
             Instance = this;
         }
     }
