@@ -39,6 +39,6 @@ public class GameManager: Singleton<GameManager>
 #### Classic Singleton
 https://github.com/SpawnCampGames/Resources/edit/main/101/Singleton.md
 
-#### Back to 1️⃣0️⃣1️⃣
-https://github.com/SpawnCampGames/Resources/tree/main/101
+#### Back to 101 📙
+https://github.com/SpawnCampGames/Resources/tree/main/101 ◀️
 
