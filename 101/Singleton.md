@@ -2,9 +2,9 @@ A singleton in Unity is a normal class that can be added to an in-game object.
 What’s different about a singleton, however, is that the class holds a public static reference to an instance of its own type.
 
 ```csharp
-public class Singleton : MonoBehaviour 
+public class GameManager : MonoBehaviour 
 {
-    public static Singleton instance;
+    public static GameManager instance;
 }
 ```
 
@@ -12,7 +12,7 @@ The static reference is what makes a singleton globally accessible.
 Making a variable static means that it is shared by all instances of the class, meaning that any script can access the singleton through its class name, without needing a reference to it first.
 
 ```csharp
-Singleton.instance;
+GameManager.instance;
 ```
 
 This means that any public methods or variables that exist in the singleton class can be accessed by other scripts in the game easily.
@@ -32,34 +32,40 @@ Meaning that, while the reference can only ever point to one instance of the scr
 Which is why it’s important to make sure that there is only ever one instance of the singleton by checking to see if the static reference, if there is one, matches the script instance.
 Then, if it doesn’t match, the script knows that it’s a duplicate and it can delete itself.
 
+⭐
 ```csharp
-public static Singleton Instance { get; private set; }
-private void Awake() 
-{ 
-    // If there is an instance, and it's not me, delete myself.
-    
-    if (Instance != null && Instance != this) 
-    { 
-        Destroy(this); 
-    } 
-    else 
-    { 
-        Instance = this; 
-    } 
+using UnityEngine;
+public class GameManager: MonoBehaviour
+{
+    public static GameManager Instance { get; private set; }
+    private void Awake()
+    {
+        // If there is an instance, and it's not me, delete myself.
+
+        if(Instance != null && Instance != this)
+        {
+            Destroy(this);
+        }
+        else
+        {
+            Instance = this;
+        }
+    }
 }
+
 ```
 
 ### Usecase
 Singletons can be very convenient because they allow you to connect parts of your game more easily.
-For UI
+For UI 🎥
 ```csharp
-float healthBarValue = Singleton.Instance.playerHealth;
+float healthBarValue = UserInterfaceManager.Instance.playerHealth;
 ```
-For Audio
+For Audio 🔈
 ```csharp
-Singleton.Instance.PlaySound(clipToPlay);;
+AudioManager.Instance.PlaySound(clipToPlay);;
 ```
-Great For Game Manager type classes
+Great For Game Manager ⚙️ type classes
 ```csharp
     //List of Public Variables
     public float totalPlaytime;
@@ -80,7 +86,7 @@ if(playerSkill < developersSkillExpectation){
 GameManager.Instance.ResetPlayer();
 ```
 
-> There's downsides to a `singleton` as well, check out the source cited below if you would like to know more.
+> There's downsides to a `Singleton` as well, check out the source cited below if you would like to know more.
 
 Sources:
 ------
