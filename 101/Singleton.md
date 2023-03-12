@@ -29,7 +29,7 @@ public class Singleton : MonoBehaviour
 While the *static reference* can only ever point to one instance of the script, it’s possible to have more than one instance of the singleton in the scene.
 Which is why it’s important to make sure that there is only ever one instance of the singleton.
 
-### 📌Basic Singleton
+### 📌Classic Singleton
 ```csharp
 public class GameManager: MonoBehaviour
 {
