@@ -1,5 +1,4 @@
-A singleton in Unity is a normal class that can be added to an in-game object.
-What’s different about a singleton, however, is that the class holds a public static reference to an instance of its own type.
+A singleton in Unity is a normal class that holds a *public static reference* to an **instance** of its own type.
 
 ```csharp
 public class GameManager : MonoBehaviour 
@@ -8,15 +7,14 @@ public class GameManager : MonoBehaviour
 }
 ```
 
-The static reference is what makes a singleton globally accessible.
-Making a variable static means that it is shared by all instances of the class, meaning that any script can access the singleton through its class name, without needing a reference to it first.
+A static variable means that it is shared by all instances of the class
+Any script can access the singleton through its class name, without needing a reference to it first.
 
 ```csharp
 GameManager.instance;
 ```
 
-This means that any public methods or variables that exist in the singleton class can be accessed by other scripts in the game easily.
-However, because any script can access it, it’s generally a good idea to protect the instance variable with a property, which simply means that it can be read by other scripts, but it can only be set from within its own class.
+*However, because any script can access it, it’s generally a good idea to protect the instance variable with a property, which simply means that it can be read by other scripts, but it can only be set from within its own class.*
 
 ### Basic Singleton
 
@@ -27,10 +25,8 @@ public class Singleton : MonoBehaviour
 }
 ```
 
-While the reference to the script is static, meaning that it is the same in any and all instances of the class, the instance that it points to is not.
-Meaning that, while the reference can only ever point to one instance of the script, it’s possible to have more than one instance of the singleton in the scene.
-Which is why it’s important to make sure that there is only ever one instance of the singleton by checking to see if the static reference, if there is one, matches the script instance.
-Then, if it doesn’t match, the script knows that it’s a duplicate and it can delete itself.
+While the *static reference* can only ever point to one instance of the script, it’s possible to have more than one instance of the singleton in the scene.
+Which is why it’s important to make sure that there is only ever one instance of the singleton.
 
 ⭐
 ```csharp
@@ -40,7 +36,8 @@ public class GameManager: MonoBehaviour
     public static GameManager Instance { get; private set; }
     private void Awake()
     {
-        // If there is an instance, and it's not me, delete myself.
+        // If theres already an instance
+        // and it isnt this one
 
         if(Instance != null && Instance != this)
         {
@@ -48,6 +45,8 @@ public class GameManager: MonoBehaviour
         }
         else
         {
+            // If theres not an instance
+            // or if this is already the instance
             Instance = this;
         }
     }
@@ -55,7 +54,7 @@ public class GameManager: MonoBehaviour
 
 ```
 
-### Usecase
+### Use-cases
 Singletons can be very convenient because they allow you to connect parts of your game more easily.
 For UI 🎥
 ```csharp
@@ -65,20 +64,20 @@ For Audio 🔈
 ```csharp
 AudioManager.Instance.PlaySound(clipToPlay);;
 ```
-Great For Game Manager ⚙️ type classes
+Great For ⚙️Game Manager type classes
 ```csharp
-    //List of Public Variables
+    // List of Public Variables
     public float totalPlaytime;
+    public GameObject player;
 
-    //List of Public Functions
+    // List of Public Functions
     public void ResetPlayer()
     {
-        // reset player
-        // reset level
-        // taunt player
+        player.transform.position = Vector3.zero;
+        // reset level and taunt player
     }
 ```
-then accessed simply as,
+then accessed from any class via calling `GameManager.Instance.`
 ```csharp
 var floatToDisplay = GameManager.Instance.totalPlaytime;
 
