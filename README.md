@@ -17,3 +17,9 @@ https://github.com/RyanNielson/awesome-unity
 
 #### SpawnCampGames Unity 101 📙
 https://github.com/SpawnCampGames/Resources/tree/main/101
+
+##### Misc
+<sub>
+Useful Scripts</sub>
+
+https://github.com/SpawnCampGames/Useful-Scripts
