@@ -65,7 +65,7 @@ public static bool Raycast(Ray ray, out RaycastHit hitInfo,
     QueryTriggerInteraction queryTriggerInteraction = QueryTriggerInteraction.UseGlobal);
 ```
 
-####Physics.Raycast()
+#### Physics.Raycast()
 bool, Returns true if the ray intersects with a Collider, otherwise false.
 Casts a ray, from point origin, in direction direction, of length maxDistance, against all colliders in the Scene.
 You may optionally provide a LayerMask, to filter out any Colliders you aren't interested in generating collisions with.
