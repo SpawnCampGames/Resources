@@ -26,6 +26,8 @@ You may optionally provide a LayerMask, to filter out any Colliders you aren't i
 
 Specifying queryTriggerInteraction allows you to control whether or not Trigger colliders generate a hit, or whether to use the global Physics.queriesHitTriggers setting.
 
+---
+
 ### Raycast with Hit Info
 
 Params Used
@@ -48,6 +50,8 @@ bool Returns true when the ray intersects any collider, otherwise false.
 
 Casts a ray against all colliders in the Scene and returns detailed information on what was hit.
 
+---
+
 ### Raycast with Ray
 
 Params Used
@@ -65,6 +69,8 @@ QueryTriggerInteraction queryTriggerInteraction = QueryTriggerInteraction.UseGlo
 bool Returns true when the ray intersects any collider, otherwise false.
 
 Same as above using ray.origin and ray.direction instead of origin and direction.
+
+---
 
 ### Raycast with Ray 2
 
