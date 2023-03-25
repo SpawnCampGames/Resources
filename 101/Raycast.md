@@ -71,3 +71,7 @@ Casts a ray, from point origin, in direction direction, of length maxDistance, a
 You may optionally provide a LayerMask, to filter out any Colliders you aren't interested in generating collisions with.
 
 Specifying queryTriggerInteraction allows you to control whether or not Trigger colliders generate a hit, or whether to use the global Physics.queriesHitTriggers setting. Raycast overloads utilizing the `out RaycastHit` will have additional information about the hit.
+
+<sub>Source: </sub>
+
+https://docs.unity3d.com/ScriptReference/Physics.Raycast.html
