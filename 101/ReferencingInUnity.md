@@ -1,24 +1,28 @@
 ## Public Variable
 
 One simple way to reference a gameobject in Unity is to create a public variable:
-```
-// public fields will be visible in the inspector
+```cs
 public Apple referenceToApple;
 ```
 
-It can now be seen in the inspector view when the gameobject is selected.
 
-and now any gameobject with an instance of `Apple` can simply be dragged and dropped into place.
-now any public variable or function within the class can be called as an example
+Now the public field is visible in the inspector.
 
-```
+![image](https://user-images.githubusercontent.com/60554748/227689118-08cd874d-9334-42e9-ae63-d584b7d4a7d0.png)
+
+Any gameobject with an instance of `Apple` can simply be dragged and dropped into place.
+
+
+and..
+
+```cs
 referenceToApple.BiteApple(); // or
 referenceToApple.weightInGrams = 150;
 ```
 
-However if other scripts don't need to access it you can use Serialize Field instead, to keep the field private and still visible to you.
+⭐However if other scripts don't need to access it you can use Serialize Field instead, to keep the field private and still visible to you.
 
-```
+```cs
 // This will also be visible in the inspector
 [SerializeField]
 public Apple referenceToApple;
