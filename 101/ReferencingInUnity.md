@@ -12,6 +12,7 @@ Now the public field is visible in the inspector.
 
 Any gameobject with an instance of `Apple` can simply be dragged and dropped into place.
 
+![public variable](https://user-images.githubusercontent.com/60554748/227689794-0f5b9380-7db1-4a99-91c5-0644e45e8cf3.gif)
 
 and..
 
