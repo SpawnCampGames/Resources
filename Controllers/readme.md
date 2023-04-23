@@ -1,5 +1,6 @@
 ### 3D Character Controllers
 https://www.youtube.com/watch?v=qdskE8PJy6Q&t=0s&ab_channel=ToyfulGames :star:
+https://assetstore.unity.com/packages/templates/packs/realistic-fps-controller-free-223479
 
 ### 2D Character Controllers
 https://github.com/Matthew-J-Spencer/Ultimate-2D-Controller
