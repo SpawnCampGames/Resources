@@ -1,5 +1,7 @@
 # SpawnCampGame's Developer Suite
 ** These are the tools I use almost daily and want to share em with you! **
+For even *more* tools check out the Extra Tools page: 
+https://github.com/SpawnCampGames/Resources/blob/main/Tools/ExtraTools.md
 
 ### Main IDE
 
