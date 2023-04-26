@@ -7,7 +7,7 @@
 
 
 ### Main IDE
-
+---
 
 ##### 🔗 VisualStudio ⭐SpawnFavorite
 
@@ -19,6 +19,7 @@ The most comprehensive IDE for .NET and C++ developers on Windows. Fully packed 
 
 
 ### Image and Graphic Design
+---
 
 #### Raster Art
 
@@ -75,7 +76,7 @@ A professional quality vector graphics software which runs on Linux, Mac OS X an
 
 
 ### Modelling / 3D Software
-
+---
 
 ##### 🔗 Blender
 
@@ -88,7 +89,7 @@ Rendering, Modelling, VFX, Animation & Rigging, 2D/3D Drawing, Python Interface,
 
 
 ### Audio Editing
-
+---
 
 ##### 🔗 Audacity
 
@@ -100,7 +101,7 @@ An easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Li
 
 
 ### Video Editing
-
+---
 
 ##### 🔗 Premiere & After Effects
 
@@ -122,7 +123,7 @@ Great alternative to Adobe AfterEffects & Premiere!
 
 
 ### Web Developing
-
+---
 #### IDE
 
 
@@ -164,6 +165,7 @@ A free and open-source, cross-platform FTP application, consisting of FileZilla 
 
 
 ### Game Design, Organization, and Brain-Storming
+---
 
 
 ##### 🔗 Notion ⭐SpawnFavorite
@@ -227,6 +229,7 @@ Can create still images or even animated gifs and compression rates are epic.
 
 
 ### Sharing
+---
 
 #### Video
 
@@ -297,3 +300,4 @@ Steam (library)
 
 
 ### Misc
+---
