@@ -75,12 +75,12 @@ For example `blue` would compare as false.
       RaycastHit[] raycastAllHits;
       raycastAllHits = Physics.RaycastAll(raycastStart.position, raycastStart.forward, distance, shootableLayer);
       Debug.Log("We hit " + raycastAllHits.length + " colliders");
-      
-      // for example if we only ever wanted to cache 5 hits
-      RaycastHit[] raycastNonAllocHits = new RaycastHit[5];
   ```
   #### 🔶 RaycastNonAlloc()
-  ```cs    
+  ```cs
+      // for example if we only ever wanted to cache 5 hits
+      RaycastHit[] raycastNonAllocHits = new RaycastHit[5];
+  
       int hits = Physics.RaycastNonAlloc(raycastStart.position, raycastStart.forward, raycastNonAllocHits, distance, shootableLayer);
       for (int i = 0; i < hits; i++)
       {
