@@ -30,7 +30,6 @@
 ```
 
 ![image](https://user-images.githubusercontent.com/60554748/227697561-d0f41683-cff9-43ef-beba-72f1014d5268.png)
-![image](https://user-images.githubusercontent.com/60554748/235264495-d3534595-10b1-4355-991c-b573db2e70e1.png)
 
 Raycasts come in many flavors. The one above makes use of the `RaycastHit` `out` variable to get useful information, about the transform *and/ or* any other component attached via the `GetComponent()` function.
 Of course, that doesn't mean you have to use all of them. In the next example we don't have a LayerMask for example so after our raycast hits something we can do additional checks using the `hit` variable as before.
@@ -131,7 +130,7 @@ Params Used
 - queryTriggerInteraction
 
 ```cs
-public static bool Raycast(Ray ray, float maxDistance = Mathf.Infinity, int layerMask = DefaultRaycastLayers,
+    public static bool Raycast(Ray ray, float maxDistance = Mathf.Infinity, int layerMask = DefaultRaycastLayers,
     QueryTriggerInteraction queryTriggerInteraction = QueryTriggerInteraction.UseGlobal);
 ```
 ---
@@ -156,6 +155,8 @@ Casts a ray, from point origin, in direction direction, of length maxDistance, a
 You may optionally provide a LayerMask, to filter out any Colliders you aren't interested in generating collisions with.
 
 Specifying queryTriggerInteraction allows you to control whether or not Trigger colliders generate a hit, or whether to use the global Physics.queriesHitTriggers setting. Raycast overloads utilizing the `out RaycastHit` will have additional information about the hit.
+
+![image](https://user-images.githubusercontent.com/60554748/235264495-d3534595-10b1-4355-991c-b573db2e70e1.png)
 
 <sub>
 Source:</sub>
