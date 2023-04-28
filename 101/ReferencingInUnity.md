@@ -1,4 +1,4 @@
-## Public Variable
+## 🏷️Public Variable
 
 One simple way to reference a gameobject in Unity is to create a public variable:
 ```cs
