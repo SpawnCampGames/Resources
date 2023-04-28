@@ -36,7 +36,7 @@
 Raycasts come in many flavors. The one above makes use of the `RaycastHit` `out` variable to get useful information, about the transform *and/ or* any other component attached via the `GetComponent()` function.
 Of course, that doesn't mean you have to use all of them. In the next example we don't have a LayerMask for example so after our raycast hits something we can do additional checks using the `hit` variable as before.
 
-#### Checking hit 💢 variable
+#### Checking the hit 💢 variable
 ```cs
                 if(Physics.Raycast(raycastStart.position, raycastStart.forward, out hit, distance))
                 {
@@ -50,12 +50,13 @@ Of course, that doesn't mean you have to use all of them. In the next example we
                 }
 ```
 
-this code would run anytime the raycast intersects a collider tagged with the `Blue` tag.
+This code would run anytime the raycast intersects a collider tagged with the `Blue` tag.
 
 ![image](https://user-images.githubusercontent.com/60554748/235266950-3bc792b5-3345-458b-a9bc-ffb1aa057b35.png)
-
+--
 *Spelling is very important*.. , make sure theres there's no misspellings or extra characters and that you're `CompareTag("")` includes it's quotation marks `""`.
 For example `blue` would compare as false. 
+
 
 ### 📚 Technical Stuff
 
