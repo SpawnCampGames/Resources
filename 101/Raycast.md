@@ -1,4 +1,6 @@
-## 🔶 Unity Raycasts 101
+# Unity Raycasts 101
+![image](https://user-images.githubusercontent.com/60554748/235270798-25cd5118-3129-4de4-8173-d966b7521e76.png)
+
 
 - `bool Physics.Raycast()` -> *requires* Collider Components to hit.
 - `bool Physics2D.Raycast()` -> *requires* Collider2D Component to hit.
@@ -91,7 +93,7 @@ For example `blue` would compare as false.
 
 ## 🌠 Raycast Overload Cheat Sheet
 
-### Raycast using a **Layermask**
+### **Layermask**
 
 Params Used
 - origin
@@ -106,7 +108,7 @@ Params Used
 ```
 ---
 
-### Raycast with **RaycastHit hitInfo**
+### **RaycastHit hitInfo**
 
 Params Used
 - origin
@@ -122,7 +124,7 @@ Params Used
 ```
 ---
 
-### Raycast with a **Ray**
+### **Ray**
 
 Params Used
 - ray
@@ -136,7 +138,7 @@ Params Used
 ```
 ---
 
-### Raycast with a **Ray & RaycastHit hitInfo**
+### **Ray & RaycastHit hitInfo**
 
 Params Used
 - ray
@@ -149,15 +151,13 @@ Params Used
     public static bool Raycast(Ray ray, out RaycastHit hitInfo, float maxDistance = Mathf.Infinity, 
     int layerMask = DefaultRaycastLayers, QueryTriggerInteraction queryTriggerInteraction = QueryTriggerInteraction.UseGlobal);
 ```
-
-#### 🔶 Physics.Raycast()
+---
+### 🔶 Physics.Raycast()
 bool, Returns true if the ray intersects with a Collider, otherwise false.
 Casts a ray, from point origin, in direction direction, of length maxDistance, against all colliders in the Scene.
 You may optionally provide a LayerMask, to filter out any Colliders you aren't interested in generating collisions with.
 
 Specifying queryTriggerInteraction allows you to control whether or not Trigger colliders generate a hit, or whether to use the global Physics.queriesHitTriggers setting. Raycast overloads utilizing the `out RaycastHit` will have additional information about the hit.
-
-![image](https://user-images.githubusercontent.com/60554748/227697561-d0f41683-cff9-43ef-beba-72f1014d5268.png)
 
 <sub>
 Source:</sub> 📋
