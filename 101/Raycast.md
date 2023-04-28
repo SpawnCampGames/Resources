@@ -1,9 +1,9 @@
-## Unity Raycasts 101
+## 🔶 Unity Raycasts 101
 
 - `bool Physics.Raycast()` -> *requires* Collider Components to hit.
 - `bool Physics2D.Raycast()` -> *requires* Collider2D Component to hit.
 
-#### Example in 3D
+#### 🔶 Example in 3D ➡
 ```cs
         public Transform raycastStart; // gameobject in scene representing raycast start point
         public float distance; // of the ray
@@ -34,6 +34,7 @@
 Raycasts come in many flavors. The one above makes use of the `RaycastHit` `out` variable to get useful information, about the transform *and/ or* any other component attached via the `GetComponent()` function.
 Of course, that doesn't mean you have to use all of them. In the next example we don't have a LayerMask for example so after our raycast hits something we can do additional checks using the `hit` variable as before.
 
+#### Checking hit 💢 variable
 ```cs
                 if(Physics.Raycast(raycastStart.position, raycastStart.forward, out hit, distance))
                 {
@@ -66,7 +67,7 @@ For example `blue` would compare as false.
                           // more hits and/or the results buffer is full. 
 ```
 
-#### Example of RaycastAll()
+#### 🔶 RaycastAll()
 ```cs
       RaycastHit[] raycastAllHits;
       raycastAllHits = Physics.RaycastAll(raycastStart.position, raycastStart.forward, distance, shootableLayer);
@@ -75,7 +76,7 @@ For example `blue` would compare as false.
       // for example if we only ever wanted to cache 5 hits
       RaycastHit[] raycastNonAllocHits = new RaycastHit[5];
   ```
-  #### ..and RaycastNonAlloc()
+  #### 🔶 RaycastNonAlloc()
   ```cs    
       int hits = Physics.RaycastNonAlloc(raycastStart.position, raycastStart.forward, raycastNonAllocHits, distance, shootableLayer);
       for (int i = 0; i < hits; i++)
@@ -88,7 +89,7 @@ For example `blue` would compare as false.
       }
 ```
 
-## Raycast Overload Cheat Sheet
+## 🌠 Raycast Overload Cheat Sheet
 
 ### Raycast using a **Layermask**
 
@@ -149,7 +150,7 @@ Params Used
     int layerMask = DefaultRaycastLayers, QueryTriggerInteraction queryTriggerInteraction = QueryTriggerInteraction.UseGlobal);
 ```
 
-#### Physics.Raycast()
+#### 🔶 Physics.Raycast()
 bool, Returns true if the ray intersects with a Collider, otherwise false.
 Casts a ray, from point origin, in direction direction, of length maxDistance, against all colliders in the Scene.
 You may optionally provide a LayerMask, to filter out any Colliders you aren't interested in generating collisions with.
@@ -159,7 +160,7 @@ Specifying queryTriggerInteraction allows you to control whether or not Trigger 
 ![image](https://user-images.githubusercontent.com/60554748/235264495-d3534595-10b1-4355-991c-b573db2e70e1.png)
 
 <sub>
-Source:</sub>
+Source:</sub> 📋
 
-https://docs.unity3d.com/ScriptReference/Physics.Raycast.html
+https://docs.unity3d.com/ScriptReference/Physics.Raycast.html 
 
