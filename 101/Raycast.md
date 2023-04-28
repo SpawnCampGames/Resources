@@ -67,7 +67,7 @@ For example `blue` would compare as false.
                           // more hits and/or the results buffer is full. 
 ```
 
-#### Example of RaycastAll() and RaycastNonAlloc()
+#### Example of RaycastAll()
 ```cs
       RaycastHit[] raycastAllHits;
       raycastAllHits = Physics.RaycastAll(raycastStart.position, raycastStart.forward, distance, shootableLayer);
@@ -75,7 +75,9 @@ For example `blue` would compare as false.
       
       // for example if we only ever wanted to cache 5 hits
       RaycastHit[] raycastNonAllocHits = new RaycastHit[5];
-      
+  ```
+  #### ..and RaycastNonAlloc()
+  ```cs    
       int hits = Physics.RaycastNonAlloc(raycastStart.position, raycastStart.forward, raycastNonAllocHits, distance, shootableLayer);
       for (int i = 0; i < hits; i++)
       {
