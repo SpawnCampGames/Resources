@@ -3,7 +3,7 @@
 
 
 - `bool Physics.Raycast()` -> *requires* Collider Components to hit.
-- `bool Physics2D.Raycast()` -> *requires* Collider2D Component to hit.
+- `RaycastHit2D Physics2D.Raycast()` -> *requires* Collider2D Component to hit.
 
 #### 🔶 Example in 3D ➡
 ```cs
