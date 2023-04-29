@@ -26,5 +26,5 @@ referenceToApple.weightInGrams = 150;
 ```cs
 // This will also be visible in the inspector
 [SerializeField]
-public Apple referenceToApple;
+private Apple referenceToApple;
 ```
