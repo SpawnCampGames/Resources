@@ -3,6 +3,7 @@ It expands the range of attributes that Unity provides so that you can create po
 
 ![image](https://github.com/SpawnCampGames/Resources/assets/60554748/f7f744a0-1f3b-4ed9-9e30-4c383685cfe9)
 
+Download Naughty Attributes
 https://assetstore.unity.com/packages/tools/utilities/naughtyattributes-129996
 
 
@@ -12,6 +13,7 @@ Easy to use: just add the Tween Player component to any GameObject, and start an
 
 ![Screenshot](jucetween.png)
 
+Download Juce Tween
 https://github.com/Juce-Assets/Juce-TweenPlayer
 
 
@@ -35,7 +37,7 @@ I use different color logs to know, at a glance, what system I'm dealing with.
         Debug.Warning("Warning Debug");
         Debug.Underlined("Underlined Debug");
 ```
-
+Debug.Log() Extended Colors
 https://github.com/SpawnCampGames/Resources/blob/main/Editor/Debug.cs
 
 
