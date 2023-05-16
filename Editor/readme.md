@@ -6,7 +6,6 @@ It expands the range of attributes that Unity provides so that you can create po
 https://assetstore.unity.com/packages/tools/utilities/naughtyattributes-129996
 
 
-
 ### Juce Tween Component
 An interpolation animation tool aimed to increase your productivity. It allows you to easily create complex tween sequences directly from the editor. No boilerplate, no coding, just plain fun!
 Easy to use: just add the Tween Player component to any GameObject, and start animating properties!
@@ -14,7 +13,6 @@ Easy to use: just add the Tween Player component to any GameObject, and start an
 ![Screenshot](jucetween.png)
 
 https://github.com/Juce-Assets/Juce-TweenPlayer
-
 
 
 ### Debug.Log() Extended Colors
@@ -37,6 +35,7 @@ I use different color logs to know, at a glance, what system I'm dealing with.
         Debug.Warning("Warning Debug");
         Debug.Underlined("Underlined Debug");
 ```
+
 https://github.com/SpawnCampGames/Resources/blob/main/Editor/Debug.cs
 
 
