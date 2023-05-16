@@ -20,10 +20,7 @@ https://github.com/Juce-Assets/Juce-TweenPlayer
 ### Debug.Log() Extended Colors
 Just a simple extension method of Unity's `Debug` class. Bring a little fun into your debugging.
 I use different color logs to know, at a glance, what system I'm dealing with.
-
-![image](https://github.com/SpawnCampGames/Resources/blob/main/Editor/OneLinedDebugs.png?raw=true)
-
-```        
+```
         UnityEngine.Debug.Log("Factory Debug");
         Debug.Log("Aftermarket Debug");
         Debug.Red("Red Debug");
@@ -37,6 +34,8 @@ I use different color logs to know, at a glance, what system I'm dealing with.
         Debug.Warning("Warning Debug");
         Debug.Underlined("Underlined Debug");
 ```
+![image](https://github.com/SpawnCampGames/Resources/blob/main/Editor/OneLinedDebugs.png?raw=true)
+
 Debug.Log() Extended Colors
 https://github.com/SpawnCampGames/Resources/blob/main/Editor/Debug.cs
 
