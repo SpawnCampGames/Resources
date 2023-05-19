@@ -1,5 +1,7 @@
 # 📙 101
 
+Check out the [footnote](https://github.com/SpawnCampGames/Resources/tree/main/101#%EF%B8%8F-back-to--resources) to find a curation of Unity Resources
+
 ### ✔️ Setup your IDE
 https://www.spawncampgames.com/IDE
 
