@@ -36,3 +36,6 @@ https://github.com/SpawnCampGames/Useful-Scripts/blob/master/TenLineRigidbodyCon
 ---
 #### Toyful Games Youtube Dev Tutorial -- Arcade Vehicle (Hover)
 https://www.youtube.com/watch?v=CdPYlj5uZeI&ab_channel=ToyfulGames
+
+#### Randomation-Vehicle-Physics (older project, still holds up)
+https://github.com/JustInvoke/Randomation-Vehicle-Physics
