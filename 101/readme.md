@@ -29,7 +29,6 @@ https://github.com/SpawnCampGames/Resources/tree/main/GameAssets
 https://github.com/SpawnCampGames/Resources/tree/main/Tools
 
 ---
-<sub>Footnote</sub>
 
 #### Back to 📚 Resources 
 https://github.com/SpawnCampGames/Resources ◀️
