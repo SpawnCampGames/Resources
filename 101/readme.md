@@ -2,7 +2,7 @@
 Check out the [footnote](https://github.com/SpawnCampGames/Resources/blob/main/101/readme.md#back-to--resources) to find a curation of Unity Resources
 
 ### ✔️ Setup your IDE
-https://www.spawncampgames.com/IDE
+~~https://www.spawncampgames.com/IDE~~ [https://youtube.com/spawncampgames/](https://www.youtube.com/watch?v=kI6H3_Ry49k&t=36s&ab_channel=SpawnCampGames) (Visual Studio)
 
 ### 📌 Where / How to learn?
 https://learn.unity.com/ - Unity's own Learning Portal
