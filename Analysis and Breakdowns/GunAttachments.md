@@ -95,6 +95,9 @@ Different stocks offer trade-offs between accuracy, aim stability, handling, and
 ## Bolts (Long Rifles Only)
 Lightweight Bolts: These bolts offer a quicker reload speed for single-shot rifles at the expense of Recoil Control. _(Fire Rate+, Recoil Control-)_
 
+## Triggers (Pistols Only)
+Lightweight Triggers: These triggers offer a quicker fire rate for single-shot pistols at the expense of Recoil Control. _(Fire Rate+, Recoil Control-)_
+
 
 
 ---
