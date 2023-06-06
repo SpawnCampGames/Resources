@@ -77,8 +77,6 @@ Rear grips offer different trade-offs between recoil control, mobility, and hand
 
 ## Stocks
 
-Stocks can have various effects on weapon performance, including aim, accuracy, recoil control, handling, and mobility. The specific impact depends on the type of stock chosen.
-
 -   Stocks: Influence weapon handling, mobility, aim, accuracy, and recoil control. The effects can vary based on the design of the stock.
     
     -   Fixed Stocks: Larger and bulkier stocks that provide increased accuracy and aim stability, but can negatively impact handling and mobility. _(Accuracy+, Aim+, Recoil Control+, Handling-, Mobility-)_
