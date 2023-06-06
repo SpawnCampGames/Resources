@@ -51,7 +51,7 @@ A Study by **SpawnCampGames**
     -   Assault Rifles: Can provide magazine capacities of 30 to even 100 rounds with drum magazines.
     -   Handguns: Generally offering a capacity of 13 to 30 rounds.
     -   Shotguns and Snipers: Providing 5 to 9 rounds, depending on the specific weapon.
--   Small Mags: Decrease magazine capacity to prioritize mobility and faster reload speeds while sacrificing firepower. _(Magazine Capacity-, Handling+, Mobility+)_
+-   Small Mags: Decrease magazine capacity to prioritize mobility and faster reload speeds. _(Magazine Capacity-, Handling+, Mobility+)_
     
     -   Assault Rifles: Reducing capacity from 30 rounds to around 20 rounds.
     -   Handguns: Typically limiting capacity from 13 to 9 rounds.
