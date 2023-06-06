@@ -69,7 +69,7 @@ A Study by **SpawnCampGames**
 
 -   Grips: Enhances recoil control and may impact mobility. _(Recoil Control+, Mobility+/-)_
 
-    -   Rubberized Grips: Adds additional material for a tackier hold, improving aim/accuracy stats and reducing flinch. However, it may weaken mobility and handling. _(Accuracy+, Flinch Resistance-, Mobility-, Handling-)_
+    -   Rubberized Grips: Adds additional material for a tackier hold, improving aim/accuracy stats and reducing flinch. However, it may weaken mobility and handling. _(Accuracy+, Flinch Resistance+, Mobility-, Handling-)_
     -   Skeleton Grips: Removes material for a lighter and slicker hold, increasing mobility and handling. However, it may reduce flinch resistance and aim/accuracy stats. _(Mobility+, Handling+, Flinch Resistance-, Accuracy-)_
     - Stippled Grips: Add stippling or texture to the grip surface for improved handling and mobility. However, they may slightly reduce accuracy. _(Handling+, Mobility+, Accuracy-)_
 
