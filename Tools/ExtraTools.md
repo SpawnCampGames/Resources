@@ -1,7 +1,8 @@
 ## Measurements
 This website allows you to paste in images and find distances. (Great for level designing)
-https://imagemeasurement.online/
+- https://imagemeasurement.online/
 
+How to use:
 - Upload Image
 - Select bounds based on perspective
 - Set up a common measurement (something you know) 
@@ -13,5 +14,4 @@ https://user-images.githubusercontent.com/60554748/234445708-5c0386b4-60b6-489b-
 
 ## Markdown
 This website allows you to write Markdown in a realtime view. (Great for getting your thoughts down on paper in an organized and structured way.)
-
-https://stackedit.io/app#
+- https://stackedit.io/app#
