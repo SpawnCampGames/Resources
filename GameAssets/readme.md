@@ -38,3 +38,6 @@ https://spawncampgames.itch.io/
 
 https://github.com/SpawnCampGames
 
+## External Links
+
+https://discussions.unity.com/t/game-asset-website-list-free-and-paid-textures-models-packs-etc/3446
