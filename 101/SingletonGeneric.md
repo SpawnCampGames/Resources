@@ -2,7 +2,7 @@
 
 ```csharp
 public abstract class Singleton<T> : MonoBehaviour
-where T : Singleton<T>
+where T : MonoBehaviour
 {
     public static T Instance { get; private set; }
 
