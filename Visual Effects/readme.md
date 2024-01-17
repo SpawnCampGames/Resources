@@ -1,4 +1,4 @@
-## Particle System / VFX
+## Particle System / VFX 🎆
 
 ### Cartoon FX
 
