@@ -13,6 +13,9 @@ https://learn.unity.com/ - Unity's own Learning Portal
 
 [Sebastian Lague - Create a Game](https://www.youtube.com/watch?v=SviIeTt2_Lc&list=PLFt_AvWsXl0ctd4dgE1F8g3uec4zKNRV0&ab_channel=SebastianLague) Playlist to create your first game.
 
+### More Basics
+[Unity / Code Naming Conventions](https://unity.com/how-to/naming-and-code-style-tips-c-scripting-unity)
+
 ### ℹ️ Debug 101
 https://github.com/SpawnCampGames/Resources/blob/main/101/Debug.md
 
