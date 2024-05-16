@@ -1,6 +1,6 @@
 # 📙 Unity 101
 > [!Note]
-> To get started prototyping like a pro check out our Prototyping Project: [The-Kit](https://github.com/spawncampgames/The-Kit/README.md)  
+> To get started prototyping like a pro check out our Prototyping Project: 🧰[The-Kit](https://github.com/SpawnCampGames/The-Kit/blob/main/README.md)  
 > Also see the [footnote](https://github.com/SpawnCampGames/Resources/blob/main/101/readme.md#back-to--resources) on this page to find a curation of Unity Resources  
 
 ### ✔️ Setup your IDE
