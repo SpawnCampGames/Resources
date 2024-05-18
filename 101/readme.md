@@ -1,15 +1,14 @@
-# 📙 Unity 101
+# 📙 Unity 101 Cheatsheet
 > [!Note]
 > To get started prototyping like a pro check out our Prototyping Project: 🧰[The-Kit](https://github.com/SpawnCampGames/The-Kit/blob/main/README.md)  
 > Also see the [footnote](https://github.com/SpawnCampGames/Resources/blob/main/101/readme.md#back-to--resources) on this page to find a curation of Unity Resources  
 
 ### ✔️ Setup your IDE
+📺 [Link your Visual Studio to Unity - SpawnCampGames](https://www.youtube.com/watch?v=kI6H3_Ry49k&ab_channel=SpawnCampGames)
 - 📄 [Visual Studio via Unity Hub](https://learn.microsoft.com/en-us/visualstudio/gamedev/unity/get-started/getting-started-with-visual-studio-tools-for-unity?pivots=windows#configure-unity-to-use-visual-studio)
 - 📄 [Visual Studio installed Manually](https://on.unity.com/vsmanually)
 - 📄 [VS Code](https://on.unity.com/vscode)
 - 📄 [Rider](https://on.unity.com/3XgkeqG)
-- 📺 [Link your Visual Studio to Unity - SpawnCampGames](https://www.youtube.com/watch?v=kI6H3_Ry49k&ab_channel=SpawnCampGames)
-- ~~https://www.spawncampgames.com/IDE~~ 
 
 ### 📌 Where / How to learn?
 > There's always more than one way to learn, but here are a few of our favorites:
@@ -18,7 +17,6 @@
 - 📺 [Sebastian Lague - Intro to Game Dev](https://www.youtube.com/watch?v=_cCGBMmMOFw&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw&ab_channel=SebastianLague) Introduction to Unity Game Dev Playlist.
 - 📺 [Sebastian Lague - Create a Game](https://www.youtube.com/watch?v=SviIeTt2_Lc&list=PLFt_AvWsXl0ctd4dgE1F8g3uec4zKNRV0&ab_channel=SebastianLague) Playlist to create your first game.
 - 🖥️ [Learning with ChatGPT](https://github.com/SpawnCampGames/Resources/blob/main/101/ChatGPT_AI.md) (or other AI Chatbots)
-
 
 ### More Basics
 - 📄 [Unity / Code Naming Conventions](https://unity.com/how-to/naming-and-code-style-tips-c-scripting-unity)
