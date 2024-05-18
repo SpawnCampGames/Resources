@@ -29,13 +29,13 @@
 - 📺 https://www.youtube.com/watch?v=YEk7mKovpUE&ab_channel=SpawnCampGames 🎞️
 
 ### 📓 Basic Singleton
-- 📄 https://github.com/SpawnCampGames/Resources/blob/main/101/Singleton.md
+- 📄 [https://github.com/SpawnCampGames/Resources/blob/main/101/Singleton.md](https://github.com/SpawnCampGames/Resources/blob/main/101/Singleton.md) - Basic Singleton Info
 
 ### 👾 Where to find Assets?
-- https://github.com/SpawnCampGames/Resources/tree/main/GameAssets
+- [https://github.com/SpawnCampGames/Resources/tree/main/GameAssets](https://github.com/SpawnCampGames/Resources/tree/main/readme.md) - SpawnCampGames Asset List
 
 ### 🔧 What kind of tools do you use?
-- https://github.com/SpawnCampGames/Resources/tree/main/Tools
+- [https://github.com/SpawnCampGames/Resources/tree/main/Tools](https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md) - SpawnCampGames Tool List
 
 ---
 
