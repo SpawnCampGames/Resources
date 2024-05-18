@@ -138,6 +138,7 @@
 ## Main IDE
 
 #### 🔗 VisualStudio ~~⭐SpawnFavorite~~
+To Top [[^]](#table-of-contents)
 
 [https://visualstudio.microsoft.com/](https://visualstudio.microsoft.com/)
 
@@ -146,6 +147,8 @@
 The most comprehensive IDE for .NET and C++ developers on Windows. Fully packed with a sweet array of tools and features to elevate and enhance every stage of software development. My Daily Driver IDE.
 
 #### 🔗 Visual Studio Code ⭐SpawnFavorite
+To Top [[^]](#table-of-contents)
+
 > Now my main IDE
 
 [https://code.visualstudio.com/](https://code.visualstudio.com/)
@@ -159,6 +162,7 @@ A streamlined code editor with support for development operations like debugging
 ### Raster Art
 
 #### 🔗 Photoshop
+To Top [[^]](#table-of-contents)
 
 [www.adobe.com](https://www.adobe.com/products/photoshop.html) [Free 7-day Trial]
 
@@ -168,6 +172,7 @@ Under Rock Recap: Photoshop is an image creation, graphic design and photo editi
 
 
 #### 🔗 Photopea
+To Top [[^]](#table-of-contents)
 
 [www.photopea.com](https://www.photopea.com/)
 
@@ -178,6 +183,7 @@ Basically Photoshop in your web browser.
 
 
 #### 🔗 Gimp
+To Top [[^]](#table-of-contents)
 
 [www.gimp.org](https://www.gimp.org/)
 
@@ -190,6 +196,7 @@ A cross-platform image editor available for GNU/Linux, macOS, Windows and more. 
 ### Vector Art
 
 #### 🔗 Illustrator
+To Top [[^]](#table-of-contents)
 
 [www.adobe.com/](https://www.adobe.com/products/illustrator.html) [Free 7-day Trial]
 
@@ -199,6 +206,7 @@ The "best" software for creating drawings, illustrations and artwork using a Win
 
 
 #### 🔗 Inkscape
+To Top [[^]](#table-of-contents)
 
 [www.inkscape.org](https://www.inkscape.org/)
 
@@ -211,6 +219,7 @@ A professional quality vector graphics software which runs on Linux, Mac OS X an
 ## Modelling / 3D Software
 
 #### 🔗 Blender
+To Top [[^]](#table-of-contents)
 
 [www.blender.org](https://www.blender.org/)
 
@@ -223,6 +232,7 @@ Rendering, Modelling, VFX, Animation & Rigging, 2D/3D Drawing, Python Interface,
 ## Audio Editing
 
 #### 🔗 Audacity
+To Top [[^]](#table-of-contents)
 
 [www.audacityteam.org/](https://www.audacityteam.org/)
 
@@ -234,6 +244,7 @@ An easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Li
 ### Video Editing
 
 #### 🔗 Premiere & After Effects
+To Top [[^]](#table-of-contents)
 
 [http://www.adobe.com/products/premiere.html](https://www.adobe.com/products/premiere.html)
 
@@ -243,6 +254,7 @@ Yet some more Adobe Products. Premiere is your industry standard type of video e
 
 
 #### 🔗 HitFilmExpress ⭐SpawnFavorite
+To Top [[^]](#table-of-contents)
 
 [www.fxhome.com/product/hitfilm](www.fxhome.com/product/hitfilm)
 
@@ -256,8 +268,8 @@ Great alternative to Adobe AfterEffects & Premiere!
 
 ### IDE
 
-
 #### 🔗 Notepad++
+To Top [[^]](#table-of-contents)
 
 [www.notepad-plus-plus.org](https://www.notepad-plus-plus.org/)
 
@@ -265,8 +277,8 @@ Great alternative to Adobe AfterEffects & Premiere!
 
 A free (as in “free speech” and also as in “free beer”) source code editor and Notepad replacement that supports several languages. Running in the MS Windows environment, its use is governed by GNU General Public License.
 
-
 #### 🔗 SublimeText
+To Top [[^]](#table-of-contents)
 
 [www.sublimetext.com](https://www.sublimetext.com/)
 
@@ -277,6 +289,7 @@ A sophisticated text editor for code, markup and prose (and free).
 ## FTP Client
 
 #### 🔗 Filezilla
+To Top [[^]](#table-of-contents)
 
 [www.filezilla-project.org](https://filezilla-project.org/)
 
@@ -288,6 +301,7 @@ A free and open-source, cross-platform FTP application, consisting of FileZilla 
 ## Game Design, Organization, and Brain-Storming
 
 #### 🔗 Obsidian ⭐SpawnFavorite
+To Top [[^]](#table-of-contents)
 
 ![](thumbs/Obsidian.png)
 
@@ -296,6 +310,7 @@ A free and open-source, cross-platform FTP application, consisting of FileZilla 
 A productivity and note-taking desktop application developed by Obsidian. Local Markdown Editor allowing you to see your markdown preview as you work.  *Desktop version of Notion*.
 
 #### 🔗 Notion
+To Top [[^]](#table-of-contents)
 
 [www.notion.so](https://www.notion.so/)
 
@@ -303,8 +318,8 @@ A productivity and note-taking desktop application developed by Obsidian. Local 
 
 A productivity and note-taking web application developed by Notion Labs Inc. It offers organizational tools including task management, project tracking, to-do lists, bookmarking, and more. *Trello on steroids*.
 
-
 #### 🔗 Trello
+To Top [[^]](#table-of-contents)
 
 [www.trello.com](https://www.trello.com/)
 
@@ -314,6 +329,7 @@ The ultimate project management tool. Start up a board in seconds, automate tedi
 
 
 #### 🔗 Coggle
+To Top [[^]](#table-of-contents)
 
 [www.coggle.it](https://www.coggle.it/)
 
@@ -321,8 +337,8 @@ The ultimate project management tool. Start up a board in seconds, automate tedi
 
 The clear way to share complex information. A collaborative mind-mapping tool that helps you make sense of complex things.
 
-
 #### 🔗 PureRef
+To Top [[^]](#table-of-contents)
 
 [www.pureref.com](https://www.pureref.com/)
 
@@ -331,10 +347,10 @@ The clear way to share complex information. A collaborative mind-mapping tool th
 A stand-alone program for Windows, Mac and Linux that keeps track of your images.
 Perfect for reference materials or creating mood-boards
 
-
 ## Screen Recording
 
 #### 🔗 Open Broadcaster Software OBS
+To Top [[^]](#table-of-contents)
 
 [www.obsproject.com](https://obsproject.com)
 
@@ -342,8 +358,8 @@ Perfect for reference materials or creating mood-boards
 
 A free and open source software for video recording and live streaming. Great for recording long video sessions @ 60FPS HD.
 
-
 #### 🔗 ShareX
+To Top [[^]](#table-of-contents)
 
 [https://getsharex.com/](https://getsharex.com/)
 
@@ -353,8 +369,8 @@ A free and open source program that lets you capture or record any area of your 
 Can create still images or even animated gifs and compression rates are epic.
 *Window's Snipping Tool on steroids*
 
-
 ## Sharing
+To Top [[^]](#table-of-contents)
 
 ### Video
 
@@ -421,4 +437,5 @@ Places to upload your Unity Game:
 
 
 ## Misc
+To Top [[^]](#table-of-contents)
 ---
