@@ -77,7 +77,7 @@
 <details>
   <summary>Game Design, Organization, and Brain-Storming</summary>
   <ul>
-    <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#-obsidian">Obsidian</a></li>
+    <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#-obsidian-spawnfavorite">Obsidian</a></li>
     <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#-notion">Notion</a></li>
     <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#-trello">Trello</a></li>
     <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#-coggle">Coggle</a></li>
