@@ -11,8 +11,8 @@
 <details>
   <summary>Main IDE</summary>
   <ul>
-    <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#visualstudio">VisualStudio</a></li>
-    <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#visual-studio-code">Visual Studio Code</a></li>
+    <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#-visualstudio-spawnfavorite">VisualStudio</a></li>
+    <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#-visual-studio-code-spawnfavorite">Visual Studio Code</a></li>
   </ul>
 </details>
 
@@ -21,15 +21,15 @@
   <ul>
     <li>Raster Art
       <ul>
-        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#photoshop">Photoshop</a></li>
-        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#photopea">Photopea</a></li>
-        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#gimp">Gimp</a></li>
+        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#-photoshop">Photoshop</a></li>
+        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#-photopea">Photopea</a></li>
+        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#-gimp">Gimp</a></li>
       </ul>
     </li>
     <li>Vector Art
       <ul>
-        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#illustrator">Illustrator</a></li>
-        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#inkscape">Inkscape</a></li>
+        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#-illustrator">Illustrator</a></li>
+        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#-inkscape">Inkscape</a></li>
       </ul>
     </li>
   </ul>
@@ -38,22 +38,22 @@
 <details>
   <summary>Modelling / 3D Software</summary>
   <ul>
-    <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#blender">Blender</a></li>
+    <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#-blender">Blender</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Audio Editing</summary>
   <ul>
-    <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#audacity">Audacity</a></li>
+    <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#-audacity">Audacity</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Video Editing</summary>
   <ul>
-    <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#premiere--after-effects">Premiere & After Effects</a></li>
-    <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#hitfilmexpress">HitFilmExpress</a></li>
+    <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#-premiere--after-effects">Premiere & After Effects</a></li>
+    <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#-hitfilmexpress-spawnfavorite">HitFilmExpress</a></li>
   </ul>
 </details>
 
@@ -62,13 +62,13 @@
   <ul>
     <li>IDE
       <ul>
-        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#notepad">Notepad++</a></li>
-        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#sublimetext">SublimeText</a></li>
+        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#-notepad">Notepad++</a></li>
+        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#-sublimetext">SublimeText</a></li>
       </ul>
     </li>
     <li>FTP Client
       <ul>
-        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#filezilla">Filezilla</a></li>
+        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#-filezilla">Filezilla</a></li>
       </ul>
     </li>
   </ul>
@@ -77,19 +77,19 @@
 <details>
   <summary>Game Design, Organization, and Brain-Storming</summary>
   <ul>
-    <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#obsidian">Obsidian</a></li>
-    <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#notion">Notion</a></li>
-    <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#trello">Trello</a></li>
-    <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#coggle">Coggle</a></li>
-    <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#pureref">PureRef</a></li>
+    <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#-obsidian">Obsidian</a></li>
+    <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#-notion">Notion</a></li>
+    <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#-trello">Trello</a></li>
+    <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#-coggle">Coggle</a></li>
+    <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#-pureref">PureRef</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Screen Recording</summary>
   <ul>
-    <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#open-broadcaster-software-obs">Open Broadcaster Software OBS</a></li>
-    <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#sharex">ShareX</a></li>
+    <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#-open-broadcaster-software-obs">Open Broadcaster Software OBS</a></li>
+    <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#-sharex">ShareX</a></li>
   </ul>
 </details>
 
@@ -98,30 +98,30 @@
   <ul>
     <li>Video
       <ul>
-        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#streamable">Streamable</a></li>
-        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#gfycat">Gfycat</a></li>
-        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#imgur">Imgur</a></li>
-        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#imgbb">ImgBB</a></li>
+        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#sharing">Streamable</a></li>
+        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#sharing">Gfycat</a></li>
+        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#sharing">Imgur</a></li>
+        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#sharing">ImgBB</a></li>
       </ul>
     </li>
     <li>Code
       <ul>
-        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#nombin">Nombin</a></li>
-        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#gist">Gist</a></li>
-        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#hatebin">Hatebin</a></li>
-        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#mystrs">Myst.rs</a></li>
-        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#ofcode">Ofcode</a></li>
-        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#hastebin">Hastebin</a></li>
-        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#gdl-space">GDL Space</a></li>
+        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#sharing">Nombin</a></li>
+        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#sharing">Gist</a></li>
+        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#sharing">Hatebin</a></li>
+        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#sharing">Myst.rs</a></li>
+        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#sharing">Ofcode</a></li>
+        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#sharing">Hastebin</a></li>
+        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#sharing">GDL Space</a></li>
       </ul>
     </li>
     <li>Game
       <ul>
-        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#itchio">itch.io</a></li>
-        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#game-jolt">Game Jolt</a></li>
-        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#kbh-games">KBH Games</a></li>
-        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#crazy-games">Crazy Games</a></li>
-        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#github">GitHub</a></li>
+        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#sharing">itch.io</a></li>
+        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#sharing">Game Jolt</a></li>
+        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#sharing">KBH Games</a></li>
+        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#sharing">Crazy Games</a></li>
+        <li><a href="https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md#sharing">GitHub</a></li>
       </ul>
     </li>
   </ul>
@@ -136,7 +136,6 @@
 </details>
 
 ## Main IDE
----
 
 #### 🔗 VisualStudio ~~⭐SpawnFavorite~~
 
@@ -156,7 +155,6 @@ The most comprehensive IDE for .NET and C++ developers on Windows. Fully packed 
 A streamlined code editor with support for development operations like debugging, task running, and version control. It aims to provide just the tools a developer needs for a quick code-build-debug cycle and leaves more complex workflows to fuller featured IDEs, such as Visual Studio IDE. Visual Studio Code, also commonly referred to as VS Code, is a source-code editor developed by Microsoft for Windows, Linux, macOS and web browsers.
 
 ## Image and Graphic Design
----
 
 ### Raster Art
 
@@ -191,7 +189,6 @@ A cross-platform image editor available for GNU/Linux, macOS, Windows and more. 
 
 ### Vector Art
 
-
 #### 🔗 Illustrator
 
 [www.adobe.com/](https://www.adobe.com/products/illustrator.html) [Free 7-day Trial]
@@ -212,7 +209,6 @@ A professional quality vector graphics software which runs on Linux, Mac OS X an
 
 
 ## Modelling / 3D Software
----
 
 #### 🔗 Blender
 
@@ -225,7 +221,6 @@ Rendering, Modelling, VFX, Animation & Rigging, 2D/3D Drawing, Python Interface,
 
 
 ## Audio Editing
----
 
 #### 🔗 Audacity
 
@@ -237,7 +232,6 @@ An easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Li
 
 
 ### Video Editing
----
 
 #### 🔗 Premiere & After Effects
 
@@ -259,7 +253,7 @@ Great alternative to Adobe AfterEffects & Premiere!
 
 
 ## Web Developing
----
+
 ### IDE
 
 
@@ -292,7 +286,6 @@ A free and open-source, cross-platform FTP application, consisting of FileZilla 
 
 
 ## Game Design, Organization, and Brain-Storming
----
 
 #### 🔗 Obsidian ⭐SpawnFavorite
 
@@ -341,7 +334,6 @@ Perfect for reference materials or creating mood-boards
 
 ## Screen Recording
 
-
 #### 🔗 Open Broadcaster Software OBS
 
 [www.obsproject.com](https://obsproject.com)
@@ -363,14 +355,10 @@ Can create still images or even animated gifs and compression rates are epic.
 
 
 ## Sharing
----
 
 ### Video
 
-
-#### 🔗 Streamable
-
-[www.streamable.com](https://www.streamable.com/)
+#### 🔗 Streamable [www.streamable.com](https://www.streamable.com/)
 
 ![Screenshot](thumbs/streamable.png)
 
@@ -412,8 +400,7 @@ particularly proud of.
 
 ### Game
 
-Places to upload your Unity Game
-
+Places to upload your Unity Game: 
 
 🔗 www.itch.io
 
@@ -423,7 +410,7 @@ Places to upload your Unity Game
 
 🔗 www.crazygames.com
 
-Steam (library)
+- Steam (library)
 
 🔗 www.github.com (repo)
 
