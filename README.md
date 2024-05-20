@@ -4,21 +4,21 @@
 <details>
 <summary><b><i>DIRECTORY</i> 📁</b></summary>
   
-- Resources / [101](https://github.com/SpawnCampGames/Resources/tree/main/101) - 101 Home Page
-- Resources / [2D](https://github.com/SpawnCampGames/Resources/tree/main/2D) - Unity Resources for 2D Development
-- Resources / [3D](https://github.com/SpawnCampGames/Resources/tree/main/3D) - Unity Resources for 3D Development
-- Resources / [AI](https://github.com/SpawnCampGames/Resources/tree/main/AI) - Movement, Pathfinding, and Interaction AI Resources
-- Resources / [Analysis and Breakdowns](https://github.com/SpawnCampGames/Resources/tree/main/Analysis%20and%20Breakdowns) - Unity Asset Breakdowns and Explained Concepts
-- Resources / [Camera](https://github.com/SpawnCampGames/Resources/tree/main/Camera) - Camera Scripts and Systems
-- Resources / [Controllers](https://github.com/SpawnCampGames/Resources/tree/main/Controllers) - Player and Vehicle Controller Resources
-- Resources / [Editor](https://github.com/SpawnCampGames/Resources/tree/main/Editor) - Editor-related Coding and Assets
-- Resources / [GameAssets](https://github.com/SpawnCampGames/Resources/tree/main/GameAssets) - Sources for Finding Game Assets
-- Resources / [Math and Misc](https://github.com/SpawnCampGames/Resources/tree/main/Math%20and%20Misc) - Basic Math and Miscellaneous Game Development Sources and Systems
-- Resources / [Physics](https://github.com/SpawnCampGames/Resources/tree/main/Physics) - Physics-related Unity Resources
-- Resources / [Procedural](https://github.com/SpawnCampGames/Resources/tree/main/Procedural) - Procedural Generation Resources, including Level Generation
-- Resources / [Shaders](https://github.com/SpawnCampGames/Resources/tree/main/Shaders) - Shader Scripts and Screen Effects
-- Resources / [Tools](https://github.com/SpawnCampGames/Resources/tree/main/Tools) - Commonly Used Tools for Game Development and Content Creation
-- Resources / [Visual Effects](https://github.com/SpawnCampGames/Resources/tree/main/Visual%20Effects) - Special Effects used in Game Development, including Shuriken or VFX Graph Particle Effects
+- Resources / [101](https://github.com/SpawnCampGames/Resources/tree/main/101/readme.md) - 101 Home Page
+- Resources / [2D](https://github.com/SpawnCampGames/Resources/tree/main/2D/readme.md) - Unity Resources for 2D Development
+- Resources / [3D](https://github.com/SpawnCampGames/Resources/tree/main/3D/readme.md) - Unity Resources for 3D Development
+- Resources / [AI](https://github.com/SpawnCampGames/Resources/tree/main/AI/readme.md) - Movement, Pathfinding, and Interaction AI Resources
+- Resources / [Analysis and Breakdowns](https://github.com/SpawnCampGames/Resources/tree/main/Analysis%20and%20Breakdowns/readme.md) - Unity Asset Breakdowns and Explained Concepts
+- Resources / [Camera](https://github.com/SpawnCampGames/Resources/tree/main/Camera/readme.md) - Camera Scripts and Systems
+- Resources / [Controllers](https://github.com/SpawnCampGames/Resources/tree/main/Controllers/readme.md) - Player and Vehicle Controller Resources
+- Resources / [Editor](https://github.com/SpawnCampGames/Resources/tree/main/Editor/readme.md) - Editor-related Coding and Assets
+- Resources / [GameAssets](https://github.com/SpawnCampGames/Resources/tree/main/GameAssets/readme.md) - Sources for Finding Game Assets
+- Resources / [Math and Misc](https://github.com/SpawnCampGames/Resources/tree/main/Math%20and%20Misc/readme.md) - Basic Math and Miscellaneous Game Development Sources and Systems
+- Resources / [Physics](https://github.com/SpawnCampGames/Resources/tree/main/Physics/readme.md) - Physics-related Unity Resources
+- Resources / [Procedural](https://github.com/SpawnCampGames/Resources/tree/main/Procedural/readme.md) - Procedural Generation Resources, including Level Generation
+- Resources / [Shaders](https://github.com/SpawnCampGames/Resources/tree/main/Shaders/readme.md) - Shader Scripts and Screen Effects
+- Resources / [Tools](https://github.com/SpawnCampGames/Resources/tree/main/Tools/readme.md) - Commonly Used Tools for Game Development and Content Creation
+- Resources / [Visual Effects](https://github.com/SpawnCampGames/Resources/tree/main/Visual%20Effects/readme.md) - Special Effects used in Game Development, including Shuriken or VFX Graph Particle Effects
 
 </details>
 <sup>Click to view Full List of Resource Pages</sup>
