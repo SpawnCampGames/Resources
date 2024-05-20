@@ -70,10 +70,10 @@
 ---
 
 #### [Back](https://github.com/SpawnCampGames/Resources) to 📚 Resources 
-🧰[The-Kit](https://github.com/spawncampgames/The-Kit/README.md) (SpawnCampGame's official Unity sandbox project.)  
+🧰 [The-Kit](https://github.com/spawncampgames/The-Kit/blob/main/README.md) (SpawnCampGame's official Unity sandbox project.)  
 
-📘[SpawnCampGames Resources](https://github.com/SpawnCampGames/Resources) (Big Collection of Unity Related Resources and Github Repos all Unity/ GameDev Related)  
+📘 [SpawnCampGames Resources](https://github.com/SpawnCampGames/Resources) (Big Collection of Unity Related Resources and Github Repos all Unity/ GameDev Related)  
 
-🗃️[Useful-Scripts Repo](https://github.com/SpawnCampGames/Useful-Scripts) (Collection of scripts deemed reuseable)  
+🗃️ [Useful-Scripts Repo](https://github.com/SpawnCampGames/Useful-Scripts) (Collection of scripts deemed reuseable)  
 
-📄[SpawnCampGames Gist Library](https://github.com/SpawnCampGames/Useful-Scripts) (Soon to replace Useful-Scripts)  
+📄 [SpawnCampGames Gist Library](https://gist.github.com/spawncampgames) (Soon to replace Useful-Scripts)  
