@@ -2,7 +2,7 @@
 
 # 📙 Unity 101 Cheatsheet
 > [!Note]
-> To get started prototyping like a pro check out our Prototyping Project: 🧰[The-Kit](https://github.com/SpawnCampGames/The-Kit/blob/main/README.md)  
+> To get started prototyping like a pro check out our Prototyping Project: 🧰[The-Kit](https://github.com/SpawnCampGames/The-Kit/blob/main/readme.md)  
 > Also see the [footnote](https://github.com/SpawnCampGames/Resources/blob/main/101/readme.md#back-to--resources) on this page to find a curation of Unity Resources  
 
 
@@ -65,12 +65,12 @@
 - [https://github.com/SpawnCampGames/Resources/tree/main/GameAssets](https://github.com/SpawnCampGames/Resources/tree/main/readme.md) - SpawnCampGames Asset List
 
 ### 🔧 What kind of tools do you use?
-- [https://github.com/SpawnCampGames/Resources/tree/main/Tools](https://github.com/SpawnCampGames/Resources/blob/main/Tools/README.md) - SpawnCampGames Tool List
+- [https://github.com/SpawnCampGames/Resources/tree/main/Tools](https://github.com/SpawnCampGames/Resources/blob/main/Tools/readme.md) - SpawnCampGames Tool List
 
 ---
 
 #### [Back](https://github.com/SpawnCampGames/Resources/readme.md) to 📚 Resources 
-🧰 [The-Kit](https://github.com/spawncampgames/The-Kit/blob/main/README.md) (SpawnCampGame's official Unity sandbox project.)  
+🧰 [The-Kit](https://github.com/spawncampgames/The-Kit/blob/main/readme.md) (SpawnCampGame's official Unity sandbox project.)  
 
 📘 [SpawnCampGames Resources](https://github.com/SpawnCampGames/Resources/readme.md) (Big Collection of Unity Related Resources and Github Repos all Unity/ GameDev Related)  
 
