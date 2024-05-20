@@ -5,26 +5,29 @@
 > To get started prototyping like a pro check out our Prototyping Project: 🧰[The-Kit](https://github.com/SpawnCampGames/The-Kit/blob/main/README.md)  
 > Also see the [footnote](https://github.com/SpawnCampGames/Resources/blob/main/101/readme.md#back-to--resources) on this page to find a curation of Unity Resources  
 
-<details>
-<summary>📁 <b>DIRECTORY</b></summary>
 
-- [101](https://github.com/SpawnCampGames/Resources/tree/main/101) - 101 Home Page
-- [2D](https://github.com/SpawnCampGames/Resources/tree/main/2D) - Unity Resources for 2D Development
-- [3D](https://github.com/SpawnCampGames/Resources/tree/main/3D) - Unity Resources for 3D Development
-- [AI](https://github.com/SpawnCampGames/Resources/tree/main/AI) - Movement, Pathfinding, and Interaction AI Resources
-- [Analysis and Breakdowns](https://github.com/SpawnCampGames/Resources/tree/main/Analysis%20and%20Breakdowns) - Unity Asset Breakdowns and Explained Concepts
-- [Camera](https://github.com/SpawnCampGames/Resources/tree/main/Camera) - Camera Scripts and Systems
-- [Controllers](https://github.com/SpawnCampGames/Resources/tree/main/Controllers) - Player and Vehicle Controller Resources
-- [Editor](https://github.com/SpawnCampGames/Resources/tree/main/Editor) - Editor-related Coding and Assets
-- [GameAssets](https://github.com/SpawnCampGames/Resources/tree/main/GameAssets) - Sources for Finding Game Assets
-- [Math and Misc](https://github.com/SpawnCampGames/Resources/tree/main/Math%20and%20Misc) - Basic Math and Miscellaneous Game Development Sources and Systems
-- [Physics](https://github.com/SpawnCampGames/Resources/tree/main/Physics) - Physics-related Unity Resources
-- [Procedural](https://github.com/SpawnCampGames/Resources/tree/main/Procedural) - Procedural Generation Resources, including Level Generation
-- [Shaders](https://github.com/SpawnCampGames/Resources/tree/main/Shaders) - Shader Scripts and Screen Effects
-- [Tools](https://github.com/SpawnCampGames/Resources/tree/main/Tools) - Commonly Used Tools for Game Development and Content Creation
-- [Visual Effects](https://github.com/SpawnCampGames/Resources/tree/main/Visual%20Effects) - Special Effects used in Game Development, including Shuriken or VFX Graph Particle Effects
+<details>
+<summary><b><i>RESOURCE DIRECTORY</i> 📁</b></summary>
+  
+- Resources / [101](https://github.com/SpawnCampGames/Resources/tree/main/101) - 101 Home Page
+- Resources / [2D](https://github.com/SpawnCampGames/Resources/tree/main/2D) - Unity Resources for 2D Development
+- Resources / [3D](https://github.com/SpawnCampGames/Resources/tree/main/3D) - Unity Resources for 3D Development
+- Resources / [AI](https://github.com/SpawnCampGames/Resources/tree/main/AI) - Movement, Pathfinding, and Interaction AI Resources
+- Resources / [Analysis and Breakdowns](https://github.com/SpawnCampGames/Resources/tree/main/Analysis%20and%20Breakdowns) - Unity Asset Breakdowns and Explained Concepts
+- Resources / [Camera](https://github.com/SpawnCampGames/Resources/tree/main/Camera) - Camera Scripts and Systems
+- Resources / [Controllers](https://github.com/SpawnCampGames/Resources/tree/main/Controllers) - Player and Vehicle Controller Resources
+- Resources / [Editor](https://github.com/SpawnCampGames/Resources/tree/main/Editor) - Editor-related Coding and Assets
+- Resources / [GameAssets](https://github.com/SpawnCampGames/Resources/tree/main/GameAssets) - Sources for Finding Game Assets
+- Resources / [Math and Misc](https://github.com/SpawnCampGames/Resources/tree/main/Math%20and%20Misc) - Basic Math and Miscellaneous Game Development Sources and Systems
+- Resources / [Physics](https://github.com/SpawnCampGames/Resources/tree/main/Physics) - Physics-related Unity Resources
+- Resources / [Procedural](https://github.com/SpawnCampGames/Resources/tree/main/Procedural) - Procedural Generation Resources, including Level Generation
+- Resources / [Shaders](https://github.com/SpawnCampGames/Resources/tree/main/Shaders) - Shader Scripts and Screen Effects
+- Resources / [Tools](https://github.com/SpawnCampGames/Resources/tree/main/Tools) - Commonly Used Tools for Game Development and Content Creation
+- Resources / [Visual Effects](https://github.com/SpawnCampGames/Resources/tree/main/Visual%20Effects) - Special Effects used in Game Development, including Shuriken or VFX Graph Particle Effects
 
 </details>
+
+---
 
 ### ✔️ Setup your IDE
 📺 [Link your Visual Studio to Unity - SpawnCampGames](https://www.youtube.com/watch?v=kI6H3_Ry49k&ab_channel=SpawnCampGames)
@@ -41,9 +44,6 @@
 - 📺 [Sebastian Lague - Create a Game](https://www.youtube.com/watch?v=SviIeTt2_Lc&list=PLFt_AvWsXl0ctd4dgE1F8g3uec4zKNRV0&ab_channel=SebastianLague) Playlist to create your first game.
 - 🖥️ [Learning with ChatGPT](https://github.com/SpawnCampGames/Resources/blob/main/101/ChatGPT_AI.md) (or other AI Chatbots)
 
-### More Basics
-- 📄 [Unity / Code Naming Conventions](https://unity.com/how-to/naming-and-code-style-tips-c-scripting-unity)
-
 ### Unity Debug 101
 - 📄 https://github.com/SpawnCampGames/Resources/blob/main/101/Debug.md
 
@@ -54,6 +54,13 @@
 ### 📓 Basic Singleton
 - 📄 [https://github.com/SpawnCampGames/Resources/blob/main/101/Singleton.md](https://github.com/SpawnCampGames/Resources/blob/main/101/Singleton.md) - Basic Singleton Info
 
+### More Basics
+#### Naming Conventions
+- 📄 [Unity / Code Naming Conventions](https://unity.com/how-to/naming-and-code-style-tips-c-scripting-unity)
+- 📄 [C# Code Naming Conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/identifier-names)
+
+---
+
 ### 👾 Where to find Assets?
 - [https://github.com/SpawnCampGames/Resources/tree/main/GameAssets](https://github.com/SpawnCampGames/Resources/tree/main/readme.md) - SpawnCampGames Asset List
 
@@ -62,7 +69,7 @@
 
 ---
 
-#### Back to 📚 Resources 
+#### [Back](https://github.com/SpawnCampGames/Resources) to 📚 Resources 
 🧰[The-Kit](https://github.com/spawncampgames/The-Kit/README.md) (SpawnCampGame's official Unity sandbox project.)  
 
 📘[SpawnCampGames Resources](https://github.com/SpawnCampGames/Resources) (Big Collection of Unity Related Resources and Github Repos all Unity/ GameDev Related)  
