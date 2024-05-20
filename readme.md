@@ -26,7 +26,7 @@
 ---
 
 ### 📙 Unity 101
-- https://github.com/SpawnCampGames/Resources/tree/main/101
+- https://github.com/SpawnCampGames/Resources/tree/main/101/readme.md
 
 ### 🔗 Github Collections for Unity Game Engine
 - https://github.com/insthync/awesome-unity3d
