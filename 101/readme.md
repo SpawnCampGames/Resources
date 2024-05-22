@@ -69,10 +69,10 @@
 
 ---
 
-#### [Back](https://github.com/SpawnCampGames/Resources/readme.md) to 📚 Resources 
-🧰 [The-Kit](https://github.com/spawncampgames/The-Kit/blob/main/readme.md) (SpawnCampGame's official Unity sandbox project.)  
+#### [Back](https://github.com/SpawnCampGames/Resources/blob/master/readme.md) to 📚 Resources 
+🧰 [The-Kit](https://github.com/spawncampgames/The-Kit/blob/master/readme.md) (SpawnCampGame's official Unity sandbox project.)  
 
-📘 [SpawnCampGames Resources](https://github.com/SpawnCampGames/Resources/readme.md) (Big Collection of Unity Related Resources and Github Repos all Unity/ GameDev Related)  
+📘 [SpawnCampGames Resources](https://github.com/SpawnCampGames/Resources/blob/master/readme.md) (Big Collection of Unity Related Resources and Github Repos all Unity/ GameDev Related)  
 
 🗃️ [Useful-Scripts / Script Vault](https://github.com/SpawnCampGames/Useful-Scripts/blob/master/readme.md) (Collection of scripts useful for learning and / or prototyping)  
 
