@@ -37,16 +37,23 @@
 
 ### Misc
 <sub>
-Useful Scripts</sub>
+Useful Scripts / Script Vault</sub>
 
-https://github.com/SpawnCampGames/Useful-Scripts
+[https://github.com/SpawnCampGames/Useful-Scripts](https://github.com/SpawnCampGames/Useful-Scripts/blob/main/readme.md)
 
 <sub>
 SpawnCampGames Gist</sub>
 
-https://gist.github.com/SpawnCampGames
+[https://gist.github.com/SpawnCampGames](https://gist.github.com/SpawnCampGames)
 
 <sub>
 Prototype Grid Texture</sub>
 
-https://spawncampgames.itch.io/the-prototype-collection
+[https://spawncampgames.itch.io/the-prototype-collection](https://spawncampgames.itch.io/the-prototype-collection)
+
+
+<sub>
+My Other Assets</sub>
+
+[https://spawncampgames.itch.io](https://spawncampgames.itch.io)  
+[https://assetstore.unity.com/publishers/51164](https://assetstore.unity.com/publishers/51164)
