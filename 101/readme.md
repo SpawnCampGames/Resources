@@ -74,6 +74,6 @@
 
 📘 [SpawnCampGames Resources](https://github.com/SpawnCampGames/Resources/readme.md) (Big Collection of Unity Related Resources and Github Repos all Unity/ GameDev Related)  
 
-🗃️ [Useful-Scripts / Script Vault](https://github.com/SpawnCampGames/Useful-Scripts/blob/main/readme.md) (Collection of scripts useful for learning and / or prototyping)  
+🗃️ [Useful-Scripts / Script Vault](https://github.com/SpawnCampGames/Useful-Scripts/blob/master/readme.md) (Collection of scripts useful for learning and / or prototyping)  
 
 📄 [SpawnCampGames Gist Library](https://gist.github.com/spawncampgames) (Scripts Indexed in *Useful-Scripts*)  
