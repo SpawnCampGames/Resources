@@ -39,7 +39,7 @@
 <sub>
 Useful Scripts / Script Vault</sub>
 
-[https://github.com/SpawnCampGames/Useful-Scripts](https://github.com/SpawnCampGames/Useful-Scripts/blob/main/readme.md)
+[https://github.com/SpawnCampGames/Useful-Scripts](https://github.com/SpawnCampGames/Useful-Scripts/blob/master/readme.md)
 
 <sub>
 SpawnCampGames Gist</sub>
