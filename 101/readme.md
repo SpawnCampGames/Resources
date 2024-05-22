@@ -62,7 +62,7 @@
 ---
 
 ### 👾 Where to find Assets?
-- [https://github.com/SpawnCampGames/Resources/tree/main/GameAssets](https://github.com/SpawnCampGames/Resources/tree/main/readme.md) - SpawnCampGames Asset List
+- [https://github.com/SpawnCampGames/Resources/tree/main/GameAssets](https://github.com/SpawnCampGames/Resources/blob/main/GameAssets/readme.md) - SpawnCampGames Asset List
 
 ### 🔧 What kind of tools do you use?
 - [https://github.com/SpawnCampGames/Resources/tree/main/Tools](https://github.com/SpawnCampGames/Resources/blob/main/Tools/readme.md) - SpawnCampGames Tool List
