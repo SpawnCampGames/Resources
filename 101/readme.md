@@ -30,29 +30,42 @@
 ---
 
 ### ✔️ Setup your IDE
-📺 [Link your Visual Studio to Unity - SpawnCampGames](https://www.youtube.com/watch?v=kI6H3_Ry49k&ab_channel=SpawnCampGames)
+- 📺 [Link your Visual Studio to Unity](https://www.youtube.com/watch?v=kI6H3_Ry49k&ab_channel=SpawnCampGames) - SpawnCampGames Youtube
 - 📄 [Visual Studio via Unity Hub](https://learn.microsoft.com/en-us/visualstudio/gamedev/unity/get-started/getting-started-with-visual-studio-tools-for-unity?pivots=windows#configure-unity-to-use-visual-studio)
 - 📄 [Visual Studio installed Manually](https://on.unity.com/vsmanually)
 - 📄 [VS Code](https://on.unity.com/vscode)
 - 📄 [Rider](https://on.unity.com/3XgkeqG)
 
+---
+
 ### 📌 Where / How to learn?
 > There's always more than one way to learn, but here are a few of our favorites:
 
-- 📄 https://learn.unity.com/ - Unity's own Learning Portal
-- 📺 [Sebastian Lague - Intro to Game Dev](https://www.youtube.com/watch?v=_cCGBMmMOFw&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw&ab_channel=SebastianLague) Introduction to Unity Game Dev Playlist.
-- 📺 [Sebastian Lague - Create a Game](https://www.youtube.com/watch?v=SviIeTt2_Lc&list=PLFt_AvWsXl0ctd4dgE1F8g3uec4zKNRV0&ab_channel=SebastianLague) Playlist to create your first game.
+- 📄 [**Unity Learn**](https://learn.unity.com/) - Unity's Official Learning Portal
+- 📺 [Sebastian Lague - Intro to Game Dev](https://www.youtube.com/watch?v=_cCGBMmMOFw&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw&ab_channel=SebastianLague) - Introduction to Unity Game Dev Playlist.
+- 📺 [Sebastian Lague - Create a Game](https://www.youtube.com/watch?v=SviIeTt2_Lc&list=PLFt_AvWsXl0ctd4dgE1F8g3uec4zKNRV0&ab_channel=SebastianLague) - Playlist to create your first game.
 - 🖥️ [Learning with ChatGPT](https://github.com/SpawnCampGames/Resources/blob/main/101/ChatGPT_AI.md) (or other AI Chatbots)
 
+### 📌 Official Unity Resources:  
+
+- [Unity Documentation](https://docs.unity.com/) - Comprehensive guides and manuals for Unity.
+- [Unity Scripting Reference](https://docs.unity3d.com/ScriptReference/index.html) - Detailed API documentation for Unity scripting.
+- [Unity Manual 2022.3 (LTS)](https://docs.unity3d.com/Manual/index.html) - In-depth manual covering Unity features and workflows.
+- [Unity YouTube](https://www.youtube.com/unity) - Official Unity YouTube channel for tutorials, showcases, and updates.
+
+---
+
 ### Unity Debug 101
-- 📄 https://github.com/SpawnCampGames/Resources/blob/main/101/Debug.md
+- 📄 [101 - Debug](https://github.com/SpawnCampGames/Resources/blob/main/101/Debug.md) Basic Debug Info
 
 ### 🗃️ How to reference gameobjects?
-- 📄 (How to get a variable from another script, the right way)[https://gamedevbeginner.com/how-to-get-a-variable-from-another-script-in-unity-the-right-way/]  
-- 📺 (Referencing in Unity)[https://www.youtube.com/watch?v=YEk7mKovpUE&ab_channel=SpawnCampGames]  -SpawnCampGames- Youtube
+- 📄 [How to get a variable from another script, the right way](https://gamedevbeginner.com/how-to-get-a-variable-from-another-script-in-unity-the-right-way/) - GameDevBeginner.com  
+- 📺 [Referencing in Unity](https://www.youtube.com/watch?v=YEk7mKovpUE&ab_channel=SpawnCampGames) - SpawnCampGames Youtube  
 
 ### 📓 Basic Singleton
-- 📄 [https://github.com/SpawnCampGames/Resources/blob/main/101/Singleton.md](https://github.com/SpawnCampGames/Resources/blob/main/101/Singleton.md) - Basic Singleton Info
+- 📄 [101 - Singleton](https://github.com/SpawnCampGames/Resources/blob/main/101/Singleton.md) - Basic Singleton Info
+
+---
 
 ### More Basics
 
@@ -83,4 +96,8 @@
 
 📄 [SpawnCampGames Gist Library](https://gist.github.com/spawncampgames) (Scripts Indexed in *Useful-Scripts*)  
 
-👤 [About](https://github.com/SpawnCampGames/Resources/blob/master/About.md)
+👤 [About Unity Cheatsheet](https://github.com/SpawnCampGames/Resources/blob/master/About.md)  Discover more about Unity 101 Cheatsheet and it's curator.
+
+---
+
+<p align="center"><sub>"Copyright SpawnCampGames 2024"</sub></p>
