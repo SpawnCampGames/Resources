@@ -56,14 +56,42 @@
 ---
 
 ### Unity Debug 101
-- 📄 [101 - Debug](https://github.com/SpawnCampGames/Resources/blob/main/101/Debug.md) Basic Debug Info
+- 📄 [Debug.Log();](https://github.com/SpawnCampGames/Resources/blob/main/101/Debug.md) - Invaluable troubleshooting Function that prints messages or variables to the console.
 
 ### 🗃️ How to reference gameobjects?
 - 📄 [How to get a variable from another script, the right way](https://gamedevbeginner.com/how-to-get-a-variable-from-another-script-in-unity-the-right-way/) - GameDevBeginner.com  
 - 📺 [Referencing in Unity](https://www.youtube.com/watch?v=YEk7mKovpUE&ab_channel=SpawnCampGames) - SpawnCampGames Youtube  
 
-### 📓 Basic Singleton
-- 📄 [101 - Singleton](https://github.com/SpawnCampGames/Resources/blob/main/101/Singleton.md) - Basic Singleton Info
+### 📓 Simple Singleton
+- 📄 [101 - Singleton](https://github.com/SpawnCampGames/Resources/blob/main/101/Singleton.md) - A static class, having only 1 Instance, and can be access from anywhere.
+
+---
+
+### 📝 Script 101: Functions & Variables
+```csharp
+using UnityEngine;
+public class HelloWorld : MonoBehaviour
+{
+    private string message = "Hello, World!";
+    void Start()
+    {
+        DisplayMessage();
+    }
+    void DisplayMessage()
+    {
+        Debug.Log(message);
+    }
+}
+```
+> HelloWorld.cs example script.  
+> If added to a GameObject, it would execute its Start() function on the first frame  
+> Resulting in the DisplayMessage() function executing once.  
+
+- 📺 [Variables and Functions](https://www.youtube.com/watch?v=-c1RsydH2nA&ab_channel=Unity) - Unity Youtube
+- 📄 [Variables and Functions](https://learn.unity.com/tutorial/variables-and-functions) - Unity Learn
+
+### 📈 Value Never Reaches Target Value (Or, That One Time I Broke Lerp)
+- 📄 [The right way to Lerp in Unity](https://gamedevbeginner.com/the-right-way-to-lerp-in-unity-with-examples/) - with examples
 
 ---
 
