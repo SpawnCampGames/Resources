@@ -96,7 +96,7 @@
 
 📄 [SpawnCampGames Gist Library](https://gist.github.com/spawncampgames) (Scripts Indexed in *Useful-Scripts*)  
 
-👤 [About Unity Cheatsheet](https://github.com/SpawnCampGames/Resources/blob/master/About.md)  Discover more about Unity 101 Cheatsheet and it's curator.
+👤 [About Unity Cheatsheet](https://github.com/SpawnCampGames/Resources/blob/master/101/About.md)  Discover more about Unity 101 Cheatsheet and it's curator.
 
 ---
 
