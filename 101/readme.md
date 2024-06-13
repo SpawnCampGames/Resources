@@ -48,13 +48,18 @@
 - 📄 https://github.com/SpawnCampGames/Resources/blob/main/101/Debug.md
 
 ### 🗃️ How to reference gameobjects?
-- 📄 https://gamedevbeginner.com/how-to-get-a-variable-from-another-script-in-unity-the-right-way/ 📜
-- 📺 https://www.youtube.com/watch?v=YEk7mKovpUE&ab_channel=SpawnCampGames 🎞️
+- 📄 (How to get a variable from another script, the right way)[https://gamedevbeginner.com/how-to-get-a-variable-from-another-script-in-unity-the-right-way/]  
+- 📺 (Referencing in Unity)[https://www.youtube.com/watch?v=YEk7mKovpUE&ab_channel=SpawnCampGames]  -SpawnCampGames- Youtube
 
 ### 📓 Basic Singleton
 - 📄 [https://github.com/SpawnCampGames/Resources/blob/main/101/Singleton.md](https://github.com/SpawnCampGames/Resources/blob/main/101/Singleton.md) - Basic Singleton Info
 
 ### More Basics
+
+#### Code Structure / Fundamentals
+- 📄 [S.O.L.I.D.](https://blog.unity.com/games/level-up-your-code-with-game-programming-patterns)
+- 📺 [Unite Austin 2017 - S.O.L.I.D. Unity](https://www.youtube.com/watch?v=eIf3-aDTOOA&t=1549s&ab_channel=Unity)
+
 #### Naming Conventions
 - 📄 [Unity / Code Naming Conventions](https://unity.com/how-to/naming-and-code-style-tips-c-scripting-unity)
 - 📄 [C# Code Naming Conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/identifier-names)
@@ -77,3 +82,5 @@
 🗃️ [Useful-Scripts / Script Vault](https://github.com/SpawnCampGames/Useful-Scripts/blob/master/readme.md) (Collection of scripts useful for learning and / or prototyping)  
 
 📄 [SpawnCampGames Gist Library](https://gist.github.com/spawncampgames) (Scripts Indexed in *Useful-Scripts*)  
+
+👤 [About](https://github.com/SpawnCampGames/Resources/blob/master/About.md)
