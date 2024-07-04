@@ -1,4 +1,4 @@
-# Debug 101 CheatSheet
+# Debug 101 Cheatsheet
 
 ### Debug.Log();
 
