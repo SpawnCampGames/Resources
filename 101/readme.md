@@ -97,6 +97,9 @@ public class HelloWorld : MonoBehaviour
 
 ### More Basics
 
+#### Pros and Cons
+- [Rigidbody vs Character Controller](https://github.com/SpawnCampGames/Resources/blob/main/101/RigidbodyVSCharacterController.md)
+
 #### Code Structure / Fundamentals
 - 📄 [S.O.L.I.D.](https://blog.unity.com/games/level-up-your-code-with-game-programming-patterns)
 - 📺 [Unite Austin 2017 - S.O.L.I.D. Unity](https://www.youtube.com/watch?v=eIf3-aDTOOA&t=1549s&ab_channel=Unity)
