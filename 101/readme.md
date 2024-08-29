@@ -53,6 +53,9 @@
 - [Unity Manual 2022.3 (LTS)](https://docs.unity3d.com/Manual/index.html) - In-depth manual covering Unity features and workflows.
 - [Unity YouTube](https://www.youtube.com/unity) - Official Unity YouTube channel for tutorials, showcases, and updates.
 
+### 👉 F.A.Q.
+> [Frequently Asked Questions](https://github.com/SpawnCampGames/Resources/blob/main/101/FAQ.md)
+
 ---
 
 ### Unity Debug 101
@@ -66,6 +69,13 @@
 - 📄 [101 - Singleton](https://github.com/SpawnCampGames/Resources/blob/main/101/Singleton.md) - A static class, having only 1 Instance, and can be access from anywhere.
 
 ---
+
+### How to Convert Materials to URP 🖌️
+- Change the shader to a URP shader.
+- Create new URP materials.
+- Use the Material Upgrade Wizard: `Window > Rendering > Materials`.
+
+### More Basics
 
 ### 📝 Script 101: Functions & Variables
 ```csharp
@@ -95,7 +105,6 @@ public class HelloWorld : MonoBehaviour
 
 ---
 
-### More Basics
 
 #### Pros✅ and Cons❎
 - 👤 [Rigidbody vs Character Controller](https://github.com/SpawnCampGames/Resources/blob/main/101/Rigidbody-vs-CharacterController.md)
