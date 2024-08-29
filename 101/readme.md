@@ -54,8 +54,7 @@
 - [Unity YouTube](https://www.youtube.com/unity) - Official Unity YouTube channel for tutorials, showcases, and updates.
 
 ### 👉 F.A.Q.
-> [Frequently Asked Questions](https://github.com/SpawnCampGames/Resources/blob/main/101/FAQ.md)
-
+> [📋 Frequently Asked Questions](https://github.com/SpawnCampGames/Resources/blob/main/101/FAQ.md) 🆕
 ---
 
 ### Unity Debug 101
