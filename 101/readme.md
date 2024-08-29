@@ -70,35 +70,37 @@
 
 ---
 
-### How to Convert Materials to URP 🖌️
-- Change the shader to a URP shader.
-- Create new URP materials.
-- Use the Material Upgrade Wizard: `Window > Rendering > Materials`.
-
 ### More Basics
 
-### 📝 Script 101: Functions & Variables
-```csharp
+#### 📝 `HelloWorld.cs`
+ 
+```cs
 using UnityEngine;
+
+// If added to a GameObject, it would execute its Start() function on the first frame
+// Resulting in the DisplayMessage() function executing once.
+
 public class HelloWorld : MonoBehaviour
 {
     private string message = "Hello, World!";
+
     void Start()
     {
         DisplayMessage();
     }
+
     void DisplayMessage()
     {
         Debug.Log(message);
     }
 }
 ```
-> HelloWorld.cs example script.  
-> If added to a GameObject, it would execute its Start() function on the first frame  
-> Resulting in the DisplayMessage() function executing once.  
-
+<details>
+<summary>Functions & Variables</summary>
+ 
 - 📺 [Variables and Functions](https://www.youtube.com/watch?v=-c1RsydH2nA&ab_channel=Unity) - Unity Youtube
 - 📄 [Variables and Functions](https://learn.unity.com/tutorial/variables-and-functions) - Unity Learn
+</details>
 
 ### 📈 Value Never Reaches Target Value (Or, That One Time I Broke Lerp)
 - 📄 [The right way to Lerp in Unity](https://gamedevbeginner.com/the-right-way-to-lerp-in-unity-with-examples/) - with examples
