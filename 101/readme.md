@@ -46,6 +46,11 @@
 - 📺 [Sebastian Lague - Create a Game](https://www.youtube.com/watch?v=SviIeTt2_Lc&list=PLFt_AvWsXl0ctd4dgE1F8g3uec4zKNRV0&ab_channel=SebastianLague) - Playlist to create your first game.
 - 🖥️ [Learning with ChatGPT](https://github.com/SpawnCampGames/Resources/blob/main/101/ChatGPT_AI.md) (or other AI Chatbots)
 
+> **Full Game Builds** (helpful when trying to tie everything you've learned together)  
+- 📺 [Angry Birds Full Tutorial](https://www.youtube.com/watch?v=HAvfA1F3qTo&ab_channel=JasonWeimann(GameDev)) - Jason Weimann  
+- 📺 [Flappy Bird Full Tutorial](https://www.youtube.com/watch?v=XtQMytORBmM&ab_channel=GameMaker'sToolkit) - Game Makers Toolkit  
+- 📺 [Unity Game Full Tutorial](https://www.youtube.com/watch?v=SviIeTt2_Lc&list=PLFt_AvWsXl0ctd4dgE1F8g3uec4zKNRV0&ab_channel=SebastianLague) - Sebastian Lague  
+
 ### 📌 Official Unity Resources:  
 
 - [Unity Documentation](https://docs.unity.com/) - Comprehensive guides and manuals for Unity.
