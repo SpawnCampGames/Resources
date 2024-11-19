@@ -7,20 +7,20 @@
 - Create new URP materials.
 - Use the Material Upgrade Wizard: `Window > Rendering > Materials`.
 
+---
 
-### Coming Soon
--
--
+### **The Three Commandments of `Awake` and `Start`**
+- **Awake (<- Me):** Initialize internal components and variables (self-sufficiency).
+- **Start (-> Them):** Interact with external objects or systems (dependencies).
+- **Timing:** Never assume another object's `Start` has run in your `Awake`.
 
-### Coming Soon
--
--
+---
 
-### Coming Soon
--
--
+### **The Three Commandments of `OnTrigger` and `OnCollision`**
+1. **Both items need a Collider** for the interaction to register.
+2. **At least one item must have a Rigidbody** to enable physics-based interactions.
+3. **Correct Collider Setup:** Ensure the appropriate Trigger or Collision settings (`isTrigger` checkbox) are configured based on your desired behavior.
 
-### Coming Soon
 ---
 
 #### [Back](https://github.com/SpawnCampGames/Resources/blob/master/readme.md) to 📚 Resources 
