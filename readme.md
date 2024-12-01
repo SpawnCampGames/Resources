@@ -26,7 +26,7 @@
 ---
 
 ### 📙 Unity 101
-- [Explore Unity 101](https://github.com/SpawnCampGames/Resources/tree/main/101/readme.md) - Foundational knowledge and beginner-friendly resources for Unity
+👉 [Explore Unity 101](https://github.com/SpawnCampGames/Resources/tree/main/101/readme.md) - Foundational knowledge and beginner-friendly resources for Unity
 - [Official Unity 101 Resources](https://github.com/SpawnCampGames/Resources/tree/main/101/readme.md) - See: 📌 Official Unity Resources
 
 ### 🔗 Github Collections for Unity Game Engine
