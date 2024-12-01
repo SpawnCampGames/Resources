@@ -44,7 +44,6 @@
 - 📄 [**Unity Learn**](https://learn.unity.com/) - Unity's Official Learning Portal
 - 📺 [Sebastian Lague - Intro to Game Dev](https://www.youtube.com/watch?v=_cCGBMmMOFw&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw&ab_channel=SebastianLague) - Introduction to Unity Game Dev Playlist.
 - 📺 [Sebastian Lague - Create a Game](https://www.youtube.com/watch?v=SviIeTt2_Lc&list=PLFt_AvWsXl0ctd4dgE1F8g3uec4zKNRV0&ab_channel=SebastianLague) - Playlist to create your first game.
-- 🖥️ [Learning with ChatGPT](https://github.com/SpawnCampGames/Resources/blob/main/101/ChatGPT_AI.md) (or other AI Chatbots)
 
 > Vertx Huh How Unity Troubleshooting Guide:
 - [Unity Huh How](https://unity.huh.how/)
@@ -63,6 +62,8 @@
 
 ### 👉 F.A.Q.
 - 📋 [Frequently Asked Questions](https://github.com/SpawnCampGames/Resources/blob/main/101/FAQ.md) 🆕
+- 📺 [Unity Performance Tips: DrawCalls](https://www.youtube.com/watch?v=IrYPkSIvpIw&ab_channel=LofiDev) 🆕
+- 🖥️ [Should I Learn with ChatGPT](https://github.com/SpawnCampGames/Resources/blob/main/101/ChatGPT_AI.md) (or other AI Chatbots)
 ---
 
 ### Unity Debug 101
