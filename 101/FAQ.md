@@ -23,6 +23,24 @@
 
 ---
 
+### **Multiplayer Solutions**
+1. [Mirror](https://mirror-networking.gitbook.io/docs/)
+2. [Photon](https://www.photonengine.com/)
+3. [PlayFab](https://playfab.com/)
+4. [GameSparks](https://www.gamesparks.com/)
+5. [Unity Networking (UNet)](https://docs.unity3d.com/Manual/UNet.html)
+6. [Netcode for GameObjects](https://docs-multiplayer.unity3d.com/)
+7. [Colyseus](https://www.colyseus.io/)
+8. [MirrorNG](https://github.com/vis2k/MirrorNG)
+9. [Nakama](https://heroiclabs.com/)
+10. [Amazon GameLift](https://aws.amazon.com/gamelift/)
+11. [Firebase](https://firebase.google.com/)
+12. [Socket.IO](https://socket.io/)
+13. [WebRTC](https://webrtc.org/)
+14. [Kaitai](https://www.kaitai.io/)
+
+---
+
 #### [Back](https://github.com/SpawnCampGames/Resources/blob/master/readme.md) to 📚 Resources 
 🧰 [The-Kit](https://github.com/spawncampgames/The-Kit/blob/master/readme.md) (SpawnCampGame's official Unity sandbox project.)  
 
