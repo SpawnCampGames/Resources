@@ -60,6 +60,8 @@
 - [Unity Manual 2022.3 (LTS)](https://docs.unity3d.com/Manual/index.html) - In-depth manual covering Unity features and workflows.
 - [Unity YouTube](https://www.youtube.com/unity) - Official Unity YouTube channel for tutorials, showcases, and updates.
 
+- [Unity Resources](https://unity.com/resources)
+
 ### 👉 F.A.Q.
 - 📋 [Frequently Asked Questions](https://github.com/SpawnCampGames/Resources/blob/main/101/FAQ.md) 🆕
 - 📺 [Unity Performance Tips: DrawCalls](https://www.youtube.com/watch?v=IrYPkSIvpIw&ab_channel=LofiDev) 🆕
@@ -121,6 +123,7 @@ public class HelloWorld : MonoBehaviour
 
 #### Code Structure / Fundamentals
 - 📄 [S.O.L.I.D.](https://blog.unity.com/games/level-up-your-code-with-game-programming-patterns)
+- 📄 [S.O.L.I.D. Unity E-book](https://unity.com/resources/design-patterns-solid-ebook) (Design Pattern)
 - 📺 [Unite Austin 2017 - S.O.L.I.D. Unity](https://www.youtube.com/watch?v=eIf3-aDTOOA&t=1549s&ab_channel=Unity)
 
 #### Naming Conventions
