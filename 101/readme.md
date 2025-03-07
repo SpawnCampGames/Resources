@@ -60,13 +60,11 @@
 
 #### Unity-Specific Tutorial Sites
 - 🗒️ [Ray Wenderlich Unity Tutorials](https://www.raywenderlich.com/unity)  
-- 🗒️ [GameFromScratch Unity Tutorials](https://gamefromscratch.com/unity-tutorials/)  
-- 🗒️ [CodeWall Unity Tutorials](https://www.codewall.xyz/category/unity/)  
+- 🗒️ [GameFromScratch Unity Tutorials](https://gamefromscratch.com/tutorials/)  
 
 #### Blogs & Articles
 - 🗒️ [Dev.to - Unity Articles](https://dev.to/t/unity)  
-- 🗒️ [Medium Unity Articles](https://medium.com/tag/unity)  
-- 🗒️ [Indie Game Devs - Unity](https://www.indiegamedevs.com/category/unity/)  
+- 🗒️ [Medium Unity Articles](https://medium.com/tag/unity)
 
 #### General Game Development Tutorials
 - 🗒️ [Tuts+ Game Development Tutorials](https://tutsplus.com/tutorials/search/unity)
