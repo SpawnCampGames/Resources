@@ -51,7 +51,25 @@
 > **Full Game Builds** (helpful when trying to tie everything you've learned together)  
 - 📺 [Angry Birds Full Tutorial](https://www.youtube.com/watch?v=HAvfA1F3qTo&ab_channel=JasonWeimann(GameDev)) - Jason Weimann  
 - 📺 [Flappy Bird Full Tutorial](https://www.youtube.com/watch?v=XtQMytORBmM&ab_channel=GameMaker'sToolkit) - Game Makers Toolkit  
-- 📺 [Unity Game Full Tutorial](https://www.youtube.com/watch?v=SviIeTt2_Lc&list=PLFt_AvWsXl0ctd4dgE1F8g3uec4zKNRV0&ab_channel=SebastianLague) - Sebastian Lague  
+- 📺 [Unity Game Full Tutorial](https://www.youtube.com/watch?v=SviIeTt2_Lc&list=PLFt_AvWsXl0ctd4dgE1F8g3uec4zKNRV0&ab_channel=SebastianLague) - Sebastian Lague
+
+## 🗒️ Written Tutorials  
+### Game Development Communities  
+- [GameDev.net - Unity Section](https://www.gamedev.net/)  
+- [Stack Overflow - Unity Questions](https://stackoverflow.com/questions/tagged/unity3d)  
+
+### Unity-Specific Tutorial Sites
+- [Ray Wenderlich Unity Tutorials](https://www.raywenderlich.com/unity)  
+- [GameFromScratch Unity Tutorials](https://gamefromscratch.com/unity-tutorials/)  
+- [CodeWall Unity Tutorials](https://www.codewall.xyz/category/unity/)  
+
+### Blogs & Articles
+- [Dev.to - Unity Articles](https://dev.to/t/unity)  
+- [Medium Unity Articles](https://medium.com/tag/unity)  
+- [Indie Game Devs - Unity](https://www.indiegamedevs.com/category/unity/)  
+
+### General Game Development Tutorials
+- [Tuts+ Game Development Tutorials](https://tutsplus.com/tutorials/search/unity)
 
 ### 📌 Official Unity Resources:  
 
