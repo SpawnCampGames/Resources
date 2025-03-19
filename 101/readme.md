@@ -53,6 +53,10 @@
 - 📺 [Flappy Bird Full Tutorial](https://www.youtube.com/watch?v=XtQMytORBmM&ab_channel=GameMaker'sToolkit) - Game Makers Toolkit  
 - 📺 [Unity Game Full Tutorial](https://www.youtube.com/watch?v=SviIeTt2_Lc&list=PLFt_AvWsXl0ctd4dgE1F8g3uec4zKNRV0&ab_channel=SebastianLague) - Sebastian Lague
 
+> **SpawnCampGames' Unity Tutorial Playlists** (curated collection of useful Youtube tutorials/channels)
+- [Top Unity Tutorials / Collection](https://youtube.com/playlist?list=PLp9qc2uVlKaclSqXCbT6Td-X0OqK9xrn_&si=5x53f84a5N96ipXV)- Collection of some of the best Unity channels to help you learn Unity and Create your very first game.
+- [Unity Shader Graph / VFX Graph Tutorials](https://youtube.com/playlist?list=PLp9qc2uVlKaf9SZYqDVRkw1cvOSOi335x&si=4G104B2lfvascoQy) - A large collection of Unity Shader Graph and VFX Graph Tutorials found on Youtube.
+
 ### 🗒️ Written Tutorials  
 #### Game Development Communities  
 - 🗒️ [GameDev.net - Unity Section](https://www.gamedev.net/)  
