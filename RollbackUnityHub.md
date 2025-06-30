@@ -3,7 +3,7 @@
 Find Archived Unity Hub Downloads here:
 > https://github.com/jchu634/UnityHubArchive 💾
 
-Or their Compatibility (Older Version)  
+Or through Unity by accessing their Compatibility Page (Older Version)  
 
 > https://docs.unity3d.com/hub/manual/InstallHub.html#install-an-older-version-of-unity-hub 💾 
 
