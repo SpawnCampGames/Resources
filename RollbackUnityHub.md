@@ -1,7 +1,7 @@
 ### ⛓️‍💥 ROLLBACK UNITY HUB BEFORE FORCED CLOUD STORAGE (version 3.13)
 
 Find Archived Unity Hub Downloads here:
-:link: https://github.com/jchu634/UnityHubArchive 💾
+> https://github.com/jchu634/UnityHubArchive 💾
 
 - Remove Hub with Add/Remove Programs.
 - Install older version of Hub via the archive download.
