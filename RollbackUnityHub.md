@@ -3,6 +3,10 @@
 Find Archived Unity Hub Downloads here:
 > https://github.com/jchu634/UnityHubArchive 💾
 
+Or their Compatibility (Older Version)  
+
+> https://docs.unity3d.com/hub/manual/InstallHub.html#install-an-older-version-of-unity-hub 💾 
+
 - Remove Hub with Add/Remove Programs.
 - Install older version of Hub via the archive download.
 
